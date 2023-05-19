@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+ipykernel
+jupyter
+scikit-learn
+tensorflow
+torch
+snscrape
+facebook-scraper
+requests
+tqdm
