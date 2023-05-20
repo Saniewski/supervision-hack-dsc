@@ -7,16 +7,34 @@ logging.basicConfig(filename='fb_scrapper.log', encoding='utf-8', level=logging.
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Facebook scrapper')
-    parser.add_argument('--groups_csv', type=str, help='Path to csv file with Facebook group names')
-    parser.add_argument('--output', type=str, help='Path to output file')
+    parser.add_argument(
+        '--groups_csv',
+        type=str,
+        required=False,
+        default='../data/facebook_job_groups.csv',
+        help='Path to csv file with Facebook group names'
+    )
+    parser.add_argument(
+        '--pages',
+        type=int,
+        required=False,
+        default=10,
+        help='Number of pages to scrap'
+    )
+    parser.add_argument(
+        '--output',
+        type=str,
+        required=False,
+        default='../data/facebook_job_posts.json',
+        help='Path to output file'
+    )
     args = parser.parse_args()
 
-    # groups_path = args.groups_csv
-    groups_path = '../data/facebook_job_groups.csv'
-    # output_path = args.output
-    output_path = '../data/facebook_job_posts.json'
+    groups_path = args.groups_csv
+    pages = args.pages
+    output_path = args.output
 
-    logging.info(f'Config: groups_csv={groups_path}, output={output_path}')
+    logging.info(f'Config: groups_csv={groups_path}, pages={pages}, output={output_path}')
 
     df_fb_groups = pd.read_csv(groups_path)
     logging.info(f'Loaded {len(df_fb_groups)} groups')
@@ -24,7 +42,7 @@ if __name__ == "__main__":
     posts = []
     for group in df_fb_groups['group_name']:
         try:
-            for post in get_posts(group):
+            for post in get_posts(group, pages=pages):
                 posts.append(post)
                 logging.info(f'Added post from group {group}')
         except:
