@@ -1,5 +1,7 @@
 import streamlit as st
 from selenium import webdriver
+from bs4 import BeautifulSoup
+import requests
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
@@ -27,6 +29,22 @@ def scrape_text(url):
             work_desc = WebDriverWait(driver, 10).until(
                 EC.presence_of_element_located((By.CSS_SELECTOR, 'h2.product-description'))
             ).get_attribute('innerHTML')
+            print(work_desc)
+            return clean_text(work_desc)
+        if 'oglaszamy24.pl' in url:
+            response = requests.get(url)
+            soup = BeautifulSoup(response.text, "html.parser")
+            description_element = soup.find("div", id="adv_desc")
+            work_desc = description_element.text.strip()
+            print(work_desc)
+            return clean_text(work_desc)
+        if 'olx.pl' in url:
+            #sprawdź czy to jest dobrze
+            response = requests.get(url)
+            soup = BeautifulSoup(response.text, "html.parser")
+            description_element = soup.find('div', _class='.css-19srbbu')
+            work_desc = description_element.text.strip()
+            print(work_desc)
             return clean_text(work_desc)
     except:
         return False
@@ -81,6 +99,7 @@ elif tab == "Podaj link":
             text = scrape_text(url)
             if text:
                 probability = fakehunter_predict(text)
+                st.markdown(text)
                 st.markdown(f"**Prawdopodobieństwo oszustwa**: {probability:.2%}")
                 conditions = assign_conditions(probability)
                 if conditions["text"]:
