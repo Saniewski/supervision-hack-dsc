@@ -8,6 +8,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import re
+import subprocess
 
 def clean_text(text):
     cleaned_text = re.sub(r"<.*?>", "", text)
@@ -52,22 +53,19 @@ def scrape_text(url):
         driver.quit()
 
 def fakehunter_predict(text):
-    # Your FakeHunter model prediction logic here
-    import random
-    probability = random.uniform(0, 1)
-    return probability
+    prediction = subprocess.run(["python", "../03_models/03_05_rf_model.py", "--input", text], capture_output=True)
+    prediction_str = prediction.stdout.decode("utf-8").strip()
+    return float(prediction_str[1])
 
-def assign_conditions(probability):
+def assign_conditions(prediction):
     conditions = {
-        "fake": {"text": "OSZUST", "color": "red", "func": st.error},
-        "maybe_fake": {"text": "Jest ryzyko", "color": "yellow", "func": st.warning},
-        "non_fake": {"text": "Nie ma oszustwa", "color": "green", "func": st.success}
+        "fake": {"text": "OSZUSTWO", "color": "red", "func": st.error},
+        # "maybe_fake": {"text": "Jest ryzyko", "color": "yellow", "func": st.warning},
+        "non_fake": {"text": "Ogłoszenie wiarygodne", "color": "green", "func": st.success}
     }
 
-    if probability > 0.85:
+    if prediction == 0:
         return conditions["fake"]
-    elif 0.6 <= probability <= 0.85:
-        return conditions["maybe_fake"]
     else:
         return conditions["non_fake"]
 
@@ -80,16 +78,10 @@ if tab == "Wstaw ogłoszenie":
 
     if st.button("Sprawdź ogłoszenie"):
         if text:
-            probability = fakehunter_predict(text)
-            st.markdown(f"**Prawdopodobieństwo oszustwa**: {probability:.2%}")
-            conditions = assign_conditions(probability)
+            prediction = fakehunter_predict(text)
+            conditions = assign_conditions(prediction)
             if conditions["text"]:
                 conditions["func"](conditions["text"])
-            st.text(f"{probability*100:.2f}%")
-            st.markdown(
-                f'<progress value="{probability}" max="1" style="width: 100%; background-color: {conditions["color"]};"></progress>',
-                unsafe_allow_html=True
-            )
 
 elif tab == "Podaj link":
     url = st.text_input("Wprowadź link do ogłoszenia o pracę")

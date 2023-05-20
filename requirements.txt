@@ -19,3 +19,4 @@ nltk
 gensim
 spacy
 qdrant_client
+streamlit

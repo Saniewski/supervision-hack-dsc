@@ -22,7 +22,7 @@ def clean_text(text):
 
 PATH = "/opt/homebrew/bin/chromedriver"
 
-work_hrefs = pd.read_csv('data/topogl_work_hrefs.csv')
+work_hrefs = pd.read_csv('../data/topogl_work_hrefs.csv')
 
 options = Options()
 options.add_argument('--headless') 
@@ -37,7 +37,7 @@ if not robot_parser.can_fetch('*', driver.current_url):
     driver.quit()
     exit()
 
-with open('data/topogl_work_descriptions.csv', 'w', newline='', encoding='utf-8') as file:
+with open('../data/topogl_work_descriptions.csv', 'w', newline='', encoding='utf-8') as file:
     writer = csv.writer(file)
     writer.writerow(['id', 'descriptions'])  
 
@@ -55,10 +55,10 @@ for href in work_hrefs.iloc[:, 0]:
     work_desc = clean_text(work_desc)
     descriptions.append({'id': id, 'description': work_desc})
 
-    with open('data/topogl_work_descriptions.csv', 'a') as csv_f:
+    with open('../data/topogl_work_descriptions.csv', 'a') as csv_f:
         writer = csv.writer(csv_f)
         writer.writerow([id, work_desc])
-    with open('data/topogl_work_descriptions.json', 'w', encoding='utf-8') as json_f:
+    with open('../data/topogl_work_descriptions.json', 'w', encoding='utf-8') as json_f:
         json.dump(descriptions, json_f, ensure_ascii=False)
 
 driver.quit()
