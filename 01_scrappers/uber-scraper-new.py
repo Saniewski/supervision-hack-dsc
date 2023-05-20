@@ -6,9 +6,9 @@ from pymongo import MongoClient
 # List of your scraper scripts names (replace with your actual script names)
 list_scripts = ["scraper1.py", "scraper2.py", "scraper3.py"]
 list_files = [
-                "/home/piotr/Activate/supervision-hack-dsc/data/fb.json",
-                "/home/piotr/Activate/supervision-hack-dsc/data/olx_remote_work.json",
-                "/home/piotr/Activate/supervision-hack-dsc/data/oglaszamy24.json"
+                "../data/fb.json",
+                "../data/olx_remote_work.json",
+                "../data/oglaszamy24.json"
               ]
 
 # MongoDB connection setup
