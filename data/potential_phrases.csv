@@ -1,1725 +1,778 @@
 ,keys,values,stopwords
-11300,"('danych', 'osobowych')",17,0
-12251,"('usług', 'it')",9,0
-6446,"('dane', 'osobowe')",8,0
-16205,"('treści', 'wideo')",7,0
-3159,"('customer', 'complaints')",7,0
-6452,"('tcc', 'telecomunication')",6,0
-3648,"('twoich', 'danych')",6,0
-6453,"('care', 'ltd')",6,0
-8009,"('social', 'media')",6,0
-6454,"('customer', 'care', 'ltd')",6,0
-6455,"('telecomunication', 'customer', 'care')",6,0
-6451,"('telecomunication', 'customer', 'care', 'ltd')",6,0
-6450,"('tcc', 'telecomunication', 'customer', 'care')",6,0
-6449,"('telecomunication', 'customer')",6,0
-6448,"('tcc', 'telecomunication', 'customer')",6,0
-6447,"('customer', 'care')",6,0
-11306,"('administratora', 'danych')",6,0
-6250,"('ust', '1', 'lit')",5,0
-6246,"('6', 'ust', '1', 'lit')",5,0
-3160,"('of', 'the')",5,0
-8995,"('przetwarzanie', 'danych')",5,0
-8522,"('velobank', 's')",5,0
-3651,"('phinance', 's')",5,0
-6248,"('6', 'ust')",5,0
-3298,"('re', 'max')",5,0
-6245,"('ust', '1')",5,0
-6249,"('art', '6', 'ust', '1')",5,0
-6244,"('1', 'lit')",5,0
-6243,"('art', '6')",5,0
-5823,"('języka', 'angielskiego')",5,0
-15191,"('pomp', 'ciepła')",5,0
-6251,"('6', 'ust', '1')",5,0
-6252,"('art', '6', 'ust')",5,0
-9715,"('press', 'service')",4,0
-9713,"('service', 'monitoring', 'mediów')",4,0
-9000,"('danych', 'art')",4,0
-8998,"('kodeksu', 'pracy')",4,0
-8412,"('gliwice', 'futsal')",4,0
-9717,"('press', 'service', 'monitoring', 'mediów')",4,0
-13982,"('aplikacji', 'mobilnych')",4,0
-8411,"('piast', 'gliwice', 'futsal')",4,0
-9716,"('service', 'monitoring')",4,0
-13042,"('ifirma', 'sa')",4,0
-9712,"('monitoring', 'mediów')",4,0
-3520,"('lufthansa', 'group')",4,0
-3190,"('dobra', 'znajomość')",4,0
-6255,"('kredyt', 'inkaso')",4,0
-3541,"('centrum', 'obsługi')",4,0
-3539,"('centrum', 'obsługi', 'klientów')",4,0
-3540,"('obsługi', 'klientów')",4,0
-6253,"('prawną', 'przetwarzania')",4,0
-6257,"('podstawą', 'prawną')",4,0
-6258,"('podstawą', 'prawną', 'przetwarzania')",4,0
-8012,"('kanałach', 'social', 'media')",4,0
-13041,"('dokumentach', 'aplikacyjnych')",4,0
-8413,"('piast', 'gliwice')",4,0
-9714,"('press', 'service', 'monitoring')",4,0
-15447,"('charakterystyki', 'energetycznej')",4,0
-3161,"('will', 'be')",4,0
-3654,"('twoich', 'danych', 'osobowych')",4,0
-12612,"('hart', 'logistics')",4,0
-15252,"('profi', 'tutors')",4,0
-10099,"('państwa', 'danych', 'osobowych')",4,0
-6230,"('for', 'the')",4,0
-12836,"('tworzenia', 'treści')",4,0
-1252,"('santander', 'bank')",4,0
-10243,"('nsure', 'com')",4,0
-16227,"('maszyn', 'budowlanych')",4,0
-3656,"('danych', 'prawo')",4,0
-11406,"('celu', 'prowadzenia')",4,0
-11308,"('abc', 'audit')",4,0
-4503,"('sprawozdań', 'finansowych')",4,0
-6457,"('at', 'customerservice24', 'pl')",4,0
-1812,"('e', 'g')",4,0
-3653,"('prawo', 'żądania')",4,0
-11557,"('7', '00')",4,0
-6460,"('at', 'customerservice24')",4,0
-10100,"('państwa', 'danych')",4,0
-6456,"('customerservice24', 'pl')",4,0
-11116,"('realizacji', 'zleceń')",4,0
-8010,"('kanałach', 'social')",4,0
-14405,"('mediów', 'społecznościowych')",3,0
-13817,"('adecco', 'poland')",3,0
-2803,"('osobowych', 'zawartych')",3,0
-12252,"('it', 'neuca')",3,0
-6070,"('bank', 'śląski')",3,0
-6069,"('ing', 'bank', 'śląski')",3,0
-6068,"('ing', 'bank')",3,0
-2805,"('danych', 'osobowych', 'zawartych')",3,0
-13842,"('źródło', 'dochodu')",3,0
-13835,"('działu', 'rekrutacji')",3,0
-13910,"('000', 'pln')",3,0
-6118,"('przyszłych', 'rekrutacji')",3,0
-2589,"('znajomość', 'języka')",3,0
-6474,"('łubinowa', '4a')",3,0
-6078,"('rozwoju', 'oprogramowania')",3,0
-6124,"('aktualnej', 'rekrutacji')",3,0
-11637,"('legalizacji', 'pobytu')",3,0
-6288,"('1', 'lit', 'f', 'rodo')",3,0
-6490,"('ul', 'łubinowa')",3,0
-6484,"('wycofania', 'zgody')",3,0
-11602,"('grand', 'spaw')",3,0
-6479,"('ul', 'łubinowa', '4a')",3,0
-2021,"('armatis', 'polska')",3,0
-9590,"('27', 'kwietnia')",3,0
-6292,"('lit', 'f')",3,0
-9589,"('dnia', '27')",3,0
-6291,"('administratora', 'art')",3,0
-6289,"('interes', 'administratora')",3,0
-1864,"('pracy', 'zdalnej')",3,0
-1813,"('data', 'science')",3,0
-1814,"('experience', 'in')",3,0
-1815,"('data', 'based')",3,0
-9569,"('program', 'stażowy')",3,0
-9585,"('ochronie', 'danych')",3,0
-9586,"('ogólnego', 'rozporządzenia')",3,0
-1839,"('pgo', 's')",3,0
-6401,"('power', 'electronics')",3,0
-9593,"('kwietnia', '2016')",3,0
-9595,"('2016', 'r')",3,0
-9600,"('kwietnia', '2016', 'r')",3,0
-9601,"('27', 'kwietnia', '2016')",3,0
-9602,"('dnia', '27', 'kwietnia')",3,0
-9605,"('ochronie', 'danych', 'osobowych')",3,0
-9606,"('27', 'kwietnia', '2016', 'r')",3,0
-9607,"('dnia', '27', 'kwietnia', '2016')",3,0
-14344,"('sales', 'division')",3,0
-6476,"('przetwarzania', 'danych')",3,0
-10981,"('05', '2023')",3,0
-6123,"('przetwarzanie', 'danych', 'osobowych')",3,0
-4987,"('ing', 'banku', 'śląskiego')",3,0
-6260,"('administratora', 'art', '6', 'ust')",3,0
-12376,"('saint', 'gobain')",3,0
-6285,"('lit', 'f', 'rodo')",3,0
-6273,"('interes', 'administratora', 'art')",3,0
-6271,"('administratora', 'art', '6')",3,0
-6270,"('1', 'lit', 'f')",3,0
-6269,"('inkaso', 's')",3,0
-6267,"('postępu', '21b')",3,0
-6263,"('kredyt', 'inkaso', 's')",3,0
-6261,"('interes', 'administratora', 'art', '6')",3,0
-6286,"('ust', '1', 'lit', 'f')",3,0
-6293,"('f', 'rodo')",3,0
-4518,"('inst', 'przeciwpożarowych')",3,0
-6400,"('technical', 'safety')",3,0
-9014,"('przepisów', 'kodeksu', 'pracy')",3,0
-5948,"('godzinę', 'pracy')",3,0
-12393,"('instalacji', 'sanitarnych')",3,0
-5954,"('realną', 'godzinę', 'pracy')",3,0
-9726,"('13', '00')",3,0
-14261,"('całym', 'świecie')",3,0
-11636,"('plus', 'sp')",3,0
-4988,"('banku', 'śląskiego')",3,0
-5155,"('instagram', 'tiktok')",3,0
-4986,"('ing', 'banku')",3,0
-12640,"('kandydata', 'kandydatki')",3,0
-11559,"('zespołu', 'medycznego')",3,0
-11159,"('abc', 'audit', 'sp')",3,0
-11166,"('audit', 'sp')",3,0
-11826,"('home', 'office')",3,0
-12641,"('poszukiwanego', 'kandydata')",3,0
-10790,"('branży', 'nieruchomości')",3,0
-5158,"('facebook', 'instagram')",3,0
-5952,"('źródło', 'zarobku')",3,0
-5154,"('mediach', 'społecznościowych')",3,0
-12639,"('mechaniki', 'płynów')",3,0
-11416,"('prowadzenia', 'rekrutacji')",3,0
-12638,"('poszukiwanego', 'kandydata', 'kandydatki')",3,0
-10883,"('work', 'assist', 'group')",3,0
-10884,"('assist', 'group')",3,0
-10885,"('work', 'assist')",3,0
-12618,"('praktyczna', 'znajomość')",3,0
-10912,"('3', 'godziny')",3,0
-11419,"('celu', 'prowadzenia', 'rekrutacji')",3,0
-4823,"('magemar', 'polska')",3,0
-11440,"('zawarciem', 'umowy')",3,0
-11247,"('zarządu', 'organizacja')",3,0
-11414,"('stanowisko', 'wskazane')",3,0
-12106,"('programowych', 'stowarzyszenia')",3,0
-8161,"('sunday', 'polska', 'sp')",3,0
-13483,"('języka', 'niemieckiego')",3,0
-13358,"('otto', 'work')",3,0
-9007,"('aktów', 'prawnych')",3,0
-12105,"('jednostek', 'programowych')",3,0
-12831,"('робота', 'в')",3,0
-5947,"('realną', 'godzinę')",3,0
-13359,"('work', 'force')",3,0
-4517,"('cundall', 'polska')",3,0
-5750,"('naszej', 'organizacji')",3,0
-10134,"('ul', 'grabiszyńska')",3,0
-13360,"('otto', 'work', 'force')",3,0
-10081,"('nationale', 'nederlanden')",3,0
-5868,"('robert', 'błędowski', 'sp')",3,0
-10244,"('znajomości', 'języka')",3,0
-5763,"('ensure', 'that')",3,0
-13148,"('procesu', 'rekrutacji')",3,0
-5869,"('innpro', 'robert', 'błędowski')",3,0
-5884,"('innpro', 'pl')",3,0
-5881,"('błędowski', 'sp')",3,0
-5880,"('robert', 'błędowski')",3,0
-5879,"('innpro', 'robert')",3,0
-13318,"('3', '5')",3,0
-5834,"('rozwoju', 'produktu')",3,0
-9005,"('obowiązujących', 'przepisów')",3,0
-3493,"('warty', 'poznań')",3,0
-12934,"('umiejętność', 'pracy')",3,0
-899,"('marketingu', 'internetowego')",3,0
-12981,"('mile', 'widziane')",3,0
-12885,"('jesteś', 'osobą')",3,0
-12987,"('stronie', 'www')",3,0
-5534,"('walki', 'ekopak', 's')",3,0
-5533,"('walki', 'ekopak')",3,0
-5532,"('ekopak', 's')",3,0
-5426,"('instalacji', 'elektrycznych')",3,0
-8153,"('sunday', 'polska')",3,0
-5860,"('zgłoszeniu', 'rekrutacyjnym')",3,0
-10452,"('lunching', 'pl')",3,0
-3494,"('branży', 'sportowej')",3,0
-4646,"('budynków', 'jednorodzinnych')",3,0
-15124,"('santander', 'bank', 'polska')",3,0
-351,"('loyal', 'partner')",3,0
-564,"('c', 'e')",3,0
-9004,"('przepisów', 'kodeksu')",3,0
-8154,"('polska', 'sp')",3,0
-1226,"('contact', 'center')",3,0
-5874,"('innpro', 'robert', 'błędowski', 'sp')",3,0
-3319,"('psycho', 'medica')",3,0
-1382,"('ischool', 'english', 'language')",3,0
-9461,"('środy', 'śląskiej')",3,0
-1259,"('bank', 'polska', 's')",3,0
-7011,"('outsourcing', 'sp')",3,0
-8778,"('obowiązujących', 'przepisów', 'kodeksu', 'pracy')",3,0
-16163,"('after', 'sales')",3,0
-6871,"('technologii', 'bim')",3,0
-1552,"('samodzielne', 'sporządzanie')",3,0
-1551,"('znajomość', 'zagadnień')",3,0
-9338,"('ograniczoną', 'odpowiedzialnością', 'spółka')",3,0
-15449,"('świadectw', 'charakterystyki', 'energetycznej')",3,0
-15448,"('świadectw', 'charakterystyki')",3,0
-9016,"('podstawie', 'obowiązujących', 'przepisów')",3,0
-8783,"('podstawie', 'obowiązujących')",3,0
-1381,"('english', 'language')",3,0
-7010,"('arttime', 'outsourcing')",3,0
-8789,"('panią', 'danych')",3,0
-1293,"('lebal', 's')",3,0
-9036,"('podstawie', 'obowiązujących', 'przepisów', 'kodeksu')",3,0
-246,"('specjalista', 'ds')",3,0
-1261,"('santander', 'bank', 'polska', 's')",3,0
-14915,"('prowadzenia', 'zajęć')",3,0
-1453,"('aldi', 'sp')",3,0
-1384,"('ischool', 'english')",3,0
-15123,"('bank', 'polska')",3,0
-9339,"('odpowiedzialnością', 'spółka', 'komandytowa')",3,0
-1142,"('zł', 'brutto')",3,0
-9350,"('spółka', 'komandytowa')",3,0
-9003,"('obowiązujących', 'przepisów', 'kodeksu')",3,0
-1265,"('polska', 's')",3,0
-1676,"('podatku', 'cit')",3,0
-375,"('sanitbuy', 'pl')",3,0
-8460,"('dokumentacji', 'związanej')",3,0
-15547,"('branży', 'finansowej')",3,0
-9448,"('dzieci', 'pracowników')",3,0
-15166,"('brać', 'udział')",3,0
-9010,"('celu', 'przeprowadzenia')",3,0
-8458,"('ubezpieczeń', 'społecznych')",3,0
-12107,"('jednostek', 'programowych', 'stowarzyszenia')",3,0
-15184,"('in', 'the')",3,0
-9352,"('ograniczoną', 'odpowiedzialnością')",3,0
-9355,"('cbf', 'spółka')",3,0
-9351,"('odpowiedzialnością', 'spółka')",3,0
-14704,"('000', 'zł')",3,0
-1630,"('grafton', 'recruitment')",3,0
-15901,"('fresh', 'market')",3,0
-9329,"('ograniczoną', 'odpowiedzialnością', 'spółka', 'komandytowa')",3,0
-10965,"('swojego', 'messengera')",2,0
-10994,"('jakiegokolwiek', 'miejsca')",2,0
-10959,"('link', 'bezpośrednio')",2,0
-10944,"('2', '3')",2,0
-10826,"('mile', 'widziana')",2,0
-10958,"('prześlij', 'link')",2,0
-10822,"('jednoosobowej', 'działalności', 'gospodarczej')",2,0
-10813,"('jednoosobowej', 'działalności')",2,0
-10974,"('proszę', 'prześlij')",2,0
-8388,"('stabilnym', 'przedsiębiorstwie')",2,0
-10830,"('znajomość', 'języka', 'czeskiego')",2,0
-8360,"('2', '000')",2,0
-10943,"('prześlij', 'link', 'bezpośrednio')",2,0
-8391,"('cisco', 'juniper')",2,0
-10903,"('workassistgroup', 'sp')",2,0
-8384,"('urzędem', 'skarbowym')",2,0
-8381,"('elastyczne', 'godziny', 'pracy')",2,0
-8394,"('and', 'beauty')",2,0
-9474,"('adres', 'e', 'mail')",2,0
-8342,"('mydlić', 'oczu')",2,0
-8575,"('www', 'velobank', 'pl', 'kontakt')",2,0
-10993,"('domu', 'bądź')",2,0
-8401,"('oferta', 'pracy')",2,0
-10862,"('prężnie', 'rozwijającej')",2,0
-8408,"('doświadczenia', 'uczymy')",2,0
-8364,"('okres', 'próbny')",2,0
-8362,"('pln', 'miesięcznie')",2,0
-8363,"('2', '000', 'pln')",2,0
-10851,"('mile', 'widziana', 'znajomość')",2,0
-8392,"('hair', 'and')",2,0
-10889,"('wyrażam', 'zgodę')",2,0
-10941,"('pełen', 'etat')",2,0
-10935,"('2', '3', 'godziny')",2,0
-8379,"('godziny', 'pracy')",2,0
-8345,"('4', 'razy')",2,0
-8359,"('000', 'pln', 'miesięcznie')",2,0
-8398,"('polityka', 'cenowa')",2,0
-10929,"('proszę', 'prześlij', 'link', 'bezpośrednio')",2,0
-8397,"('platformy', 'sprzedażowej')",2,0
-8396,"('hair', 'and', 'beauty')",2,0
-10940,"('proszę', 'prześlij', 'link')",2,0
-10857,"('języka', 'czeskiego')",2,0
-8377,"('elastyczne', 'godziny')",2,0
-10770,"('pzu', 'życie')",2,0
-11195,"('78', '256')",2,0
-10806,"('dobrej', 'znajomości', 'obsługi')",2,0
-10459,"('godzinach', '11')",2,0
-10537,"('szkoleniu', 'wstępnym')",2,0
-8480,"('sprzedaży', 'internetowej')",2,0
-8461,"('sporządzanie', 'dokumentacji')",2,0
-10541,"('zacząć', 'współpracę')",2,0
-10542,"('chcesz', 'zacząć')",2,0
-10549,"('chcesz', 'zacząć', 'współpracę')",2,0
-10564,"('dodatkowe', 'pieniądze')",2,0
-10565,"('dodatkowe', 'źródło', 'zarobku')",2,0
-10571,"('idealna', 'praca')",2,0
-10579,"('danego', 'produktu')",2,0
-10584,"('praca', 'dodatkowa')",2,0
-10599,"('czas', 'pracy')",2,0
-8456,"('okresie', 'wdrożenia')",2,0
-8450,"('podanie', 'danych')",2,0
-10622,"('rachunek', 'bankowy')",2,0
-10531,"('dodatkowe', 'źródło')",2,0
-8598,"('przetwarzanie', 'moich', 'danych')",2,0
-8585,"('niepodanie', 'uniemożliwi', 'udział')",2,0
-10785,"('znajomość', 'przepisów')",2,0
-10502,"('struktury', 'sprzedaży')",2,0
-8576,"('velobank', 'pl', 'kontakt', 'formularz')",2,0
-10454,"('14', '00')",2,0
-10632,"('każdym', 'kroku')",2,0
-10460,"('11', '00')",2,0
-10461,"('00', '14')",2,0
-10470,"('00', '14', '00')",2,0
-10474,"('pytania', 'klienta')",2,0
-10476,"('godzinach', '11', '00', '14')",2,0
-10477,"('11', '00', '14', '00')",2,0
-10481,"('11', '00', '14')",2,0
-10482,"('czatu', 'telefonu')",2,0
-10803,"('księgowanie', 'spółki')",2,0
-10455,"('godzinach', '11', '00')",2,0
-8431,"('szukamy', 'osób')",2,0
-10775,"('centrum', 'radomia')",2,0
-10777,"('ukończone', '18', 'lat')",2,0
-10778,"('ukończone', '18')",2,0
-8426,"('aplikuj', 'chcesz')",2,0
-10781,"('18', 'lat')",2,0
-10782,"('aleksandra', 'lukinska')",2,0
-10784,"('przepisów', 'podatkowych')",2,0
-10859,"('widziana', 'znajomość')",2,0
-10787,"('możliwość', 'pracy')",2,0
-10786,"('000', '00')",2,0
-11458,"('przepisach', 'prawa')",2,0
-8419,"('klubu', 'piast', 'gliwice', 'futsal')",2,0
-8417,"('klubu', 'piast', 'gliwice')",2,0
-10792,"('dobrej', 'znajomości')",2,0
-8415,"('potencjalnych', 'partnerów')",2,0
-10797,"('działalności', 'gospodarczej')",2,0
-10800,"('znajomości', 'obsługi')",2,0
-10801,"('czego', 'oczekujemy')",2,0
-10771,"('portfela', 'klientów')",2,0
-10650,"('dokumentów', 'księgowych')",2,0
-8442,"('1000', 'zł')",2,0
-8309,"('os', 'handlowe', '5')",2,0
-11033,"('poświęconego', 'czasu')",2,0
-11386,"('asystent', 'biegłego')",2,0
-8119,"('możesz', 'zarabiać')",2,0
-8115,"('firma', 'dziala')",2,0
-11442,"('dostawcom', 'systemów')",2,0
-8113,"('zdobywanie', 'nowych')",2,0
-8112,"('nowych', 'klientow')",2,0
-11453,"('osobowe', 'możemy')",2,0
-11457,"('twoją', 'zgodę')",2,0
-11459,"('logicas', 'sp')",2,0
-8421,"('klubu', 'piast')",2,0
-11373,"('celów', 'związanych')",2,0
-8330,"('are', 'looking')",2,0
-11469,"('pomagać', 'innym')",2,0
-11477,"('branży', 'wellness')",2,0
-11479,"('zdrowego', 'stylu')",2,0
-11390,"('osobowe', 'przetwarzane')",2,0
-11384,"('dane', 'osobowe', 'przetwarzane')",2,0
-11382,"('procesem', 'rekrutacji')",2,0
-11338,"('administrator', 'danych')",2,0
-11350,"('panu', 'prawo')",2,0
-11460,"('dane', 'osobowe', 'możemy')",2,0
-8165,"('podstawie', 'twojej')",2,0
-11376,"('administratorem', 'danych')",2,0
-8144,"('kafeterię', 'benefitów')",2,0
-8142,"('branży', 'ubezpieczeń')",2,0
-8138,"('świat', 'ubezpieczeń')",2,0
-8135,"('cele', 'sprzedażowe')",2,0
-11577,"('7500', 'zł')",2,0
-11579,"('brutto', 'msc')",2,0
-11580,"('msc', 'premie')",2,0
-11581,"('godziny', '10')",2,0
-11583,"('kontraktu', 'b2b')",2,0
-11589,"('swojego', 'zespołu')",2,0
-11561,"('godziny', '10', '00', '11')",2,0
-11592,"('zł', 'brutto', 'msc')",2,0
-11593,"('7500', 'zł', 'brutto')",2,0
-11594,"('6500', '7500', 'zł')",2,0
-11596,"('7500', 'zł', 'brutto', 'msc')",2,0
-11597,"('6500', '7500', 'zł', 'brutto')",2,0
-11599,"('zł', 'brutto', 'msc', 'premie')",2,0
-11600,"('10', '00', '11', '00')",2,0
-8038,"('zł', '8')",2,0
-8034,"('zł', '8', 'spotkań')",2,0
-8033,"('8', 'spotkań')",2,0
-8031,"('działu', 'marketingu')",2,0
-11603,"('firma', 'grand')",2,0
-8028,"('you', 'tube')",2,0
-11606,"('firma', 'grand', 'spaw')",2,0
-11576,"('6500', '7500')",2,0
-11575,"('10', '00')",2,0
-11574,"('00', '11')",2,0
-11555,"('zacząć', 'działać')",2,0
-11587,"('godziny', '10', '00')",2,0
-11591,"('brutto', 'msc', 'premie')",2,0
-11534,"('możesz', 'zarobić')",2,0
-11547,"('założonych', 'celów')",2,0
-11141,"('poszukuję', 'kandydatów')",2,0
-11564,"('10', '00', '11')",2,0
-11565,"('00', '11', '00')",2,0
-11567,"('14', '35')",2,0
-8064,"('ul', 'konstruktorskiej')",2,0
-8181,"('3', '4')",2,0
-8327,"('good', 'command', 'of')",2,0
-11128,"('gminie', 'długołęka')",2,0
-11554,"('możesz', 'zacząć')",2,0
-8324,"('hungarian', 'or')",2,0
-11548,"('wyników', 'sprzedaży')",2,0
-8323,"('hungarian', 'or', 'slovenian')",2,0
-8316,"('08', '00')",2,0
-8313,"('handlowe', '5')",2,0
-8312,"('os', 'handlowe')",2,0
-10443,"('klientami', 'indywidualnymi')",2,0
-8303,"('klientami', 'firmy')",2,0
-8302,"('wg', 'potrzeb')",2,0
-8326,"('command', 'of', 'the')",2,0
-11123,"('presją', 'czasu')",2,0
-9101,"('www', 'velobank')",2,0
-8331,"('looking', 'for')",2,0
-11249,"('szablonów', 'przygotowanych')",2,0
-11046,"('godziny', 'dziennie')",2,0
-8339,"('language', 'min')",2,0
-8338,"('min', 'b2')",2,0
-11095,"('szukamy', 'księgowych')",2,0
-8332,"('or', 'slovenian')",2,0
-11096,"('00', '17', '00')",2,0
-11099,"('17', '00')",2,0
-11100,"('00', '17')",2,0
-11108,"('ryczałtu', 'ewidencjonowanego')",2,0
-8336,"('command', 'of')",2,0
-8335,"('good', 'command')",2,0
-11115,"('dokumentacji', 'technicznej')",2,0
-8334,"('are', 'looking', 'for')",2,0
-8333,"('language', 'min', 'b2')",2,0
-8301,"('instytucji', 'finansowej')",2,0
-8187,"('15', '00')",2,0
-8298,"('thomas', 'andersen', 'llc')",2,0
-8248,"('przypadku', 'b2b')",2,0
-10262,"('pomocą', 'gotowych')",2,0
-8337,"('good', 'command', 'of', 'the')",2,0
-11250,"('zarządu', 'organizacja', 'kalendarza', 'zarządu')",2,0
-9425,"('projekcie', 'pracujemy')",2,0
-11252,"('stały', 'kontakt')",2,0
-8242,"('m', 'in')",2,0
-11257,"('przygotowywanie', 'umów')",2,0
-11260,"('podstawie', 'szablonów')",2,0
-11261,"('kalendarza', 'zarządu')",2,0
-11263,"('organizacja', 'kalendarza')",2,0
-11272,"('zarządu', 'organizacja', 'kalendarza')",2,0
-11273,"('organizacja', 'kalendarza', 'zarządu')",2,0
-8235,"('czynnościach', 'związanych')",2,0
-11254,"('firmami', 'współpracującymi')",2,0
-8233,"('wybranego', 'pakietu')",2,0
-11281,"('podstawie', 'szablonów', 'przygotowanych')",2,0
-8208,"('żadnej', 'inwestycji')",2,0
-8199,"('24', 'pln')",2,0
-8290,"('andersen', 'llc')",2,0
-8294,"('thomas', 'andersen')",2,0
-8286,"('oferty', 'sprzedaży')",2,0
-8283,"('biuro', 'nieruchomości')",2,0
-10447,"('kat', 'd')",2,0
-11278,"('sprawach', 'zarządu')",2,0
-9767,"('dz', 'urz')",2,0
-10413,"('umiejętności', 'prowadzenia')",2,0
-9100,"('velobank', 'pl')",2,0
-9115,"('moich', 'danych')",2,0
-9099,"('przeprowadzenia', 'obecnego')",2,0
-9095,"('warszawie', 'zawartych')",2,0
-9092,"('złożonej', 'przeze')",2,0
-9085,"('katalog', 'danych')",2,0
-9079,"('żądać', 'bank')",2,0
-9078,"('pl', 'kontakt')",2,0
-9077,"('kontakt', 'formularz')",2,0
-9069,"('podstawie', 'zgody')",2,0
-9068,"('ochrony', 'danych')",2,0
-9065,"('panią', 'danych', 'osobowych')",2,0
-9061,"('przysługuje', 'panu')",2,0
-9050,"('niepodanie', 'uniemożliwi')",2,0
-9758,"('potrzeb', 'aktualnej')",2,0
-9756,"('service', 'monitoring', 'mediów', 'sp')",2,0
-9188,"('moich', 'danych', 'osobowych')",2,0
-9231,"('usług', 'transportu')",2,0
-9214,"('właściwych', 'aktów', 'prawnych')",2,0
-9211,"('celu', 'przeprowadzenia', 'obecnego')",2,0
-9208,"('velobank', 'pl', 'kontakt')",2,0
-9207,"('pl', 'kontakt', 'formularz')",2,0
-9753,"('r', 'dz')",2,0
-9776,"('l', '119')",2,0
-9846,"('monitoring', 'mediów', 'sp')",2,0
-9111,"('właściwych', 'aktów')",2,0
-9110,"('przetwarzanie', 'moich')",2,0
-9106,"('procesie', 'rekrutacji')",2,0
-9102,"('formularz', 'kontaktowy')",2,0
-9765,"('psmm', 'pl')",2,0
-9047,"('uniemożliwi', 'udział')",2,0
-11607,"('nowych', 'projektów')",2,0
-9844,"('kodeksie', 'pracy')",2,0
-9853,"('urz', 'ue', 'l', '119')",2,0
-9132,"('przetwarzanie', 'moich', 'danych', 'osobowych')",2,0
-9854,"('dz', 'urz', 'ue', 'l')",2,0
-9855,"('r', 'dz', 'urz', 'ue')",2,0
-9856,"('2016', 'r', 'dz', 'urz')",2,0
-9857,"('kwietnia', '2016', 'r', 'dz')",2,0
-9880,"('biurze', 'rachunkowym')",2,0
-9885,"('biegłego', 'rewidenta')",2,0
-9788,"('05', '00')",2,0
-9771,"('05', '2016')",2,0
-9772,"('wykonywać', 'zlecenie')",2,0
-9777,"('ue', 'l')",2,0
-10408,"('świadczeniem', 'usług')",2,0
-9564,"('komputera', 'bądź', 'smartfona')",2,0
-9783,"('00', '13', '00')",2,0
-9785,"('05', '00', '13')",2,0
-9786,"('godzinach', '05', '00')",2,0
-9787,"('00', '13')",2,0
-9789,"('godzinach', '05')",2,0
-9829,"('04', '05', '2016')",2,0
-9800,"('dodatkowe', 'dane')",2,0
-9808,"('mediów', 'sp')",2,0
-9811,"('04', '05')",2,0
-9818,"('05', '00', '13', '00')",2,0
-9819,"('godzinach', '05', '00', '13')",2,0
-9822,"('ue', 'l', '119')",2,0
-9823,"('urz', 'ue', 'l')",2,0
-9825,"('dz', 'urz', 'ue')",2,0
-9826,"('r', 'dz', 'urz')",2,0
-9827,"('2016', 'r', 'dz')",2,0
-9442,"('zakresu', 'motoryzacji')",2,0
-9440,"('18', '00')",2,0
-9559,"('pełni', 'zdalna')",2,0
-9782,"('przetwarzania', 'prawo')",2,0
-9439,"('branży', 'fmcg')",2,0
-9437,"('znajomość', 'j')",2,0
-9450,"('mebli', 'forte')",2,0
-9421,"('posiadasz', 'aktualne')",2,0
-9420,"('aktualne', 'orzeczenie')",2,0
-9405,"('całej', 'polski')",2,0
-9401,"('ramach', 'działu', 'sprzedaży')",2,0
-9400,"('działu', 'sprzedaży')",2,0
-9399,"('ramach', 'działu')",2,0
-9393,"('cv', 'zgłoszenia')",2,0
-9426,"('posiadasz', 'aktualne', 'orzeczenie')",2,0
-9570,"('magenta', 'start')",2,0
-9427,"('członków', 'zespołu')",2,0
-9484,"('obsługa', 'klienta')",2,0
-9472,"('wsparcia', 'sprzedaży')",2,0
-9471,"('adres', 'e')",2,0
-9470,"('e', 'mail')",2,0
-9466,"('poleceń', 'kandydatów')",2,0
-9458,"('szkolenie', 'wstępne')",2,0
-9455,"('ostrowi', 'mazowieckiej')",2,0
-9572,"('60', '39')",2,0
-9563,"('2', '3g')",2,0
-9565,"('komputera', 'bądź')",2,0
-10252,"('umiejętności', 'szybkiego')",2,0
-10200,"('przesłanych', 'dokumentach', 'aplikacyjnych')",2,0
-9567,"('bądź', 'smartfona')",2,0
-9568,"('potrzebne', 'materiały')",2,0
-9692,"('potrzeb', 'aktualnej', 'rekrutacji')",2,0
-9358,"('zakresie', 'niezbędnym')",2,0
-9374,"('wyrażenia', 'zgody')",2,0
-9369,"('podobne', 'stanowiska')",2,0
-9321,"('000', 'brutto')",2,0
-9314,"('s', 'k')",2,0
-9896,"('ciepła', 'kotłów')",2,0
-10257,"('znajomości', 'języka', 'angielskiego')",2,0
-10205,"('ul', 'grabiszyńska', '241g')",2,0
-10215,"('moich', 'danych', 'osobowych', 'zawartych')",2,0
-10221,"('potrzeby', 'przyszłych', 'procesów', 'rekrutacyjnych')",2,0
-10223,"('m', 'c', 'brutto')",2,0
-10224,"('zł', 'm', 'c')",2,0
-10226,"('kadrowo', 'płacowych')",2,0
-10245,"('rynku', 'pracy')",2,0
-10247,"('budujących', 'markę', 'nsure')",2,0
-10248,"('budujących', 'markę')",2,0
-10249,"('markę', 'nsure')",2,0
-10254,"('markę', 'nsure', 'com')",2,0
-9778,"('urz', 'ue')",2,0
-10185,"('przyszłych', 'procesów')",2,0
-10194,"('m', 'c')",2,0
-10177,"('przyszłych', 'procesów', 'rekrutacyjnych')",2,0
-8744,"('pracę', 'zdalną')",2,0
-10158,"('pełnym', 'wymiarze', 'godzin')",2,0
-10160,"('ifirma', 'pl')",2,0
-10174,"('pełnym', 'wymiarze')",2,0
-10181,"('przesłanych', 'dokumentach')",2,0
-10184,"('potrzeby', 'przyszłych')",2,0
-10186,"('procesów', 'rekrutacyjnych')",2,0
-10202,"('zł', 'm')",2,0
-10187,"('zł', 'm', 'c', 'brutto')",2,0
-10188,"('grabiszyńska', '241g')",2,0
-10189,"('potrzeby', 'przyszłych', 'procesów')",2,0
-10193,"('c', 'brutto')",2,0
-10256,"('budujących', 'markę', 'nsure', 'com')",2,0
-10258,"('employer', 'brandingowych')",2,0
-10402,"('usług', 'księgowych')",2,0
-10404,"('naszym', 'zespole')",2,0
-10407,"('ksiąg', 'rachunkowych')",2,0
-12680,"('stolarki', 'aluminiowej')",2,0
-12158,"('warunki', 'zatrudnienia')",2,0
-10286,"('prostej', 'pracy')",2,0
-9937,"('pomp', 'ciepła', 'kotłów')",2,0
-9940,"('dynamicznie', 'rozwijającej')",2,0
-9944,"('pellet', 'kotłów', 'zgazowujących', 'drewno')",2,0
-9946,"('każdego', 'dnia')",2,0
-9961,"('pellet', 'kotłów')",2,0
-9963,"('kotłów', 'zgazowujących')",2,0
-9964,"('zgazowujących', 'drewno')",2,0
-9965,"('kotłów', 'zgazowujących', 'drewno')",2,0
-9966,"('pellet', 'kotłów', 'zgazowujących')",2,0
-10147,"('wymiarze', 'godzin')",2,0
-10064,"('każdym', 'teście')",2,0
-10067,"('znajomość', 'systemów')",2,0
-10070,"('cad', '2d')",2,0
-10080,"('call', 'center')",2,0
-10082,"('zespołu', 'doradców')",2,0
-10087,"('wypełnianie', 'ankiet')",2,0
-10091,"('klienta', 'ccig', 'group')",2,0
-14707,"('pracymile', 'widziana')",2,0
-14569,"('ogólnopolska', 'grupa', 'badawcza')",2,0
-10344,"('chcesz', 'pracować')",2,0
-10094,"('ccig', 'group')",2,0
-14308,"('rynku', 'branży')",2,0
-10095,"('klienta', 'ccig')",2,0
-10059,"('nielimitowane', 'zarobki')",2,0
-10057,"('nowego', 'zawodu')",2,0
-10055,"('prawa', 'podatkowego')",2,0
-9980,"('remy', 'hair')",2,0
-10053,"('springos', 'spółka')",2,0
-10035,"('klauzulą', 'informacyjną')",2,0
-3,"('wymagamy', 'doświadczenia')",2,0
-10111,"('datamobi', 'sp')",2,0
-11609,"('usług', 'outsourcingu')",2,0
-14678,"('przetwarzanie', 'twoich')",2,0
-14676,"('przetwarzanie', 'twoich', 'danych')",2,0
-14675,"('500', '00')",2,0
-14706,"('zł', 'netto')",2,0
-14716,"('krajach', 'ue')",2,0
-14715,"('pozyskiwaniu', 'klientów')",2,0
-14714,"('pracymile', 'widziana', 'znajomość')",2,0
-14710,"('000', 'zł', 'netto')",2,0
-14671,"('przetwarzanie', 'twoich', 'danych', 'osobowych')",2,0
-10110,"('wynagrodzenie', 'podstawowe')",2,0
-14568,"('języków', 'obcych')",2,0
-14567,"('kursy', 'online')",2,0
-14819,"('obsługi', 'klienta')",2,0
-14814,"('sprzedaży', 'telefonicznej')",2,0
-14564,"('60', '88')",2,0
-14571,"('ogólnopolska', 'grupa')",2,0
-14534,"('kontaktów', 'międzynarodowych')",2,0
-14531,"('wyjazdów', 'służbowych')",2,0
-14530,"('ds', 'kontaktów', 'międzynarodowych')",2,0
-14527,"('ds', 'kontaktów')",2,0
-14572,"('grupa', 'badawcza')",2,0
-14602,"('możliwości', 'daje')",2,0
-14573,"('influencerki', 'hostessy', 'online')",2,0
-14575,"('hostessy', 'online')",2,0
-14574,"('influencerki', 'hostessy')",2,0
-14917,"('prowadzenie', 'zajęć')",2,0
-14985,"('młodymi', 'głodnymi')",2,0
-14916,"('każdą', 'godzinę')",2,0
-14892,"('kp', 'consulting')",2,0
-14856,"('krótkim', 'czasie')",2,0
-14989,"('młodymi', 'głodnymi', 'sukcesu', 'ludźmi')",2,0
-14990,"('sukcesu', 'ludźmi')",2,0
-14997,"('młodymi', 'głodnymi', 'sukcesu')",2,0
-14566,"('rynku', 'edukacyjnym')",2,0
-14998,"('głodnymi', 'sukcesu', 'ludźmi')",2,0
-14991,"('głodnymi', 'sukcesu')",2,0
-14290,"('utrzymywania', 'dobrych')",2,0
-14759,"('produktów', 'ubezpieczeniowych')",2,0
-14763,"('wymagamy', 'spotkań')",2,0
-14785,"('lubisz', 'pracować')",2,0
-11610,"('chciałbyś', 'chciałabyś')",2,0
-14267,"('obrocie', 'nieruchomościami')",2,0
-14293,"('utrzymywania', 'dobrych', 'relacji')",2,0
-14292,"('terenie', 'całego')",2,0
-14291,"('dobrych', 'relacji')",2,0
-14287,"('łatwość', 'nawiązywania')",2,0
-16166,"('stolarki', 'okiennej')",2,0
-14278,"('większych', 'możliwości')",2,0
-14256,"('3', 'dni')",2,0
-14249,"('fotowoltaika', 'pompy')",2,0
-14248,"('obsługa', 'zleceń')",2,0
-14246,"('arytmetyki', 'mentalnej')",2,0
-14245,"('placówkami', 'edukacyjnymi')",2,0
-14296,"('urządzeń', 'chłodniczych')",2,0
-14846,"('zarabiać', 'bądź')",2,0
-10118,"('psychoterapii', 'dzieci')",2,0
-14336,"('klienta', 'biznesowego')",2,0
-15562,"('kontakt', 'bezpośredni')",2,0
-14468,"('nowa', 'dęba')",2,0
-14339,"('lead', 'brokers')",2,0
-14338,"('byłeś', 'pracownikiem')",2,0
-14337,"('byłaś', 'byłeś')",2,0
-14334,"('linii', 'lotniczych')",2,0
-14310,"('klientów', 'biznesowych')",2,0
-14332,"('zakresu', 'automatyki', 'elektroniki')",2,0
-14329,"('zakresu', 'automatyki')",2,0
-14327,"('automatyki', 'elektroniki')",2,0
-14157,"('narzędzia', 'pracy')",2,0
-14155,"('samochód', 'laptop')",2,0
-14158,"('rynek', 'oze')",2,0
-14196,"('znajomość', 'programu')",2,0
-14191,"('naszej', 'firmie')",2,0
-14180,"('systemy', 'services')",2,0
-14177,"('dogmat', 'systemy', 'services')",2,0
-14174,"('dogmat', 'systemy')",2,0
-14357,"('grupą', 'sprzedażową')",2,0
-14362,"('jenkins', 'docker', 'kubernetes')",2,0
-15966,"('celu', 'realizacji')",2,0
-14341,"('byłaś', 'byłeś', 'pracownikiem')",2,0
-14363,"('procesów', 'wdrożeniowych')",2,0
-14345,"('realny', 'wpływ')",2,0
-14499,"('ru', 'eng')",2,0
-14373,"('jenkins', 'docker', 'kubernetes', 'ansible')",2,0
-14372,"('docker', 'kubernetes', 'ansible', 'itp')",2,0
-14371,"('jenkins', 'docker')",2,0
-14370,"('docker', 'kubernetes')",2,0
-14369,"('kubernetes', 'ansible')",2,0
-14368,"('ansible', 'itp')",2,0
-14366,"('kubernetes', 'ansible', 'itp')",2,0
-14364,"('docker', 'kubernetes', 'ansible')",2,0
-14496,"('uber', 'bolt')",2,0
-14407,"('spółkę', 'droplo')",2,0
-14428,"('spółkę', 'droplo', 'sp')",2,0
-14439,"('ul', 'uczniowskiej', '16')",2,0
-14440,"('droplo', 'sp')",2,0
-14445,"('uczniowskiej', '16')",2,0
-15967,"('9', '02', '677', 'warszawa')",2,0
-15983,"('ul', 'cybernetyki', '9', '02')",2,0
-15982,"('cybernetyki', '9', '02', '677')",2,0
-15980,"('02', '677', 'warszawa', 'danych')",2,0
-14426,"('ul', 'uczniowskiej')",2,0
-14342,"('masz', 'doświadczenie')",2,0
-15990,"('cybernetyki', '9')",2,0
-15962,"('warszawa', 'danych', 'osobowych', 'zawartych')",2,0
-16282,"('swoim', 'klientom')",2,0
-15991,"('9', '02')",2,0
-15902,"('market', '2023')",2,0
-16035,"('ul', 'cybernetyki', '9')",2,0
-16064,"('в', 'зависимости')",2,0
-16063,"('в', 'зависимости', 'от')",2,0
-16050,"('677', 'warszawa', 'danych')",2,0
-16049,"('warszawa', 'danych', 'osobowych')",2,0
-16043,"('02', '677', 'warszawa')",2,0
-16037,"('9', '02', '677')",2,0
-16033,"('treści', 'wyrażam', 'zgodę')",2,0
-15992,"('02', '677')",2,0
-16027,"('armatis', 'polska', 'sp')",2,0
-16026,"('cybernetyki', '9', '02')",2,0
-16011,"('treści', 'wyrażam')",2,0
-15994,"('warszawa', 'danych')",2,0
-15993,"('677', 'warszawa')",2,0
-15905,"('fresh', 'market', '2023')",2,0
-15866,"('celu', 'prosimy')",2,0
-15963,"('677', 'warszawa', 'danych', 'osobowych')",2,0
-15989,"('ul', 'cybernetyki')",2,0
-15832,"('ciągu', 'dnia')",2,0
-16065,"('зависимости', 'от')",2,0
-16306,"('zespole', 'profesjonalistów')",2,0
-16244,"('źródeł', 'ciepła')",2,0
-16238,"('pełne', 'wsparcie')",2,0
-16234,"('branży', 'maszyn')",2,0
-16285,"('produktów', 'bankowych')",2,0
-16081,"('b2b', 'bądź')",2,0
-16367,"('możesz', 'uzyskać')",2,0
-16292,"('nowych', 'klientów')",2,0
-16079,"('podstawowa', 'znajomość')",2,0
-16228,"('branży', 'maszyn', 'budowlanych')",2,0
-16066,"('работа', 'с')",2,0
-16122,"('customer', 'service')",2,0
-16127,"('godzin', 'pracy')",2,0
-16123,"('poszukujemy', 'osób')",2,0
-16111,"('etyki', 'psychoterapeuty')",2,0
-16105,"('zasadami', 'etyki')",2,0
-16103,"('praca', 'zgodnie')",2,0
-16101,"('zasadami', 'etyki', 'psychoterapeuty')",2,0
-16232,"('dodatkowym', 'atutem')",2,0
-16178,"('zarządzania', 'najmem')",2,0
-16204,"('terenie', 'krajów')",2,0
-16208,"('trendów', 'wideo')",2,0
-15293,"('nocnym', '22', '00')",2,0
-16214,"('platformie', 'tiktok')",2,0
-15230,"('największym', 'dostawcą', 'usług')",2,0
-15247,"('knowledge', 'of')",2,0
-15234,"('dostawcą', 'usług')",2,0
-15233,"('największym', 'dostawcą')",2,0
-15249,"('etc', 'knowledge', 'of')",2,0
-15226,"('baz', 'danych')",2,0
-15214,"('możliwość', 'rozwoju')",2,0
-15213,"('produktów', 'leczniczych')",2,0
-15212,"('wyrobów', 'medycznych')",2,0
-15248,"('etc', 'knowledge')",2,0
-15250,"('maszyn', 'rolniczych')",2,0
-15300,"('systemie', 'nocnym', '22', '00')",2,0
-15290,"('22', '00', '6')",2,0
-15297,"('22', '00')",2,0
-15296,"('systemie', 'nocnym')",2,0
-15295,"('nocnym', '22')",2,0
-15294,"('00', '6')",2,0
-15631,"('4', 'godziny')",2,0
-16209,"('innowacyjnych', 'pomysłów')",2,0
-15292,"('systemie', 'nocnym', '22')",2,0
-12867,"('znajomość', 'platformy')",2,0
-15254,"('grafik', 'pracy')",2,0
-15269,"('klientów', 'zagranicznych')",2,0
-15265,"('m3n', 'biuro')",2,0
-15261,"('centrum', 'korepetycji')",2,0
-15200,"('marki', 'thermatec')",2,0
-15081,"('wiadomości', 'gotowymi', 'skryptami')",2,0
-15193,"('wysokiej', 'jakości')",2,0
-15079,"('praca', 'polega')",2,0
-15074,"('odpisywaniu', 'ludziom')",2,0
-15271,"('branży', 'meblarskiej')",2,0
-15073,"('wiadomości', 'gotowymi')",2,0
-15057,"('minimum', 'średnie')",2,0
-15137,"('masz', 'wątpliwości')",2,0
-15172,"('2d', 'cad')",2,0
-15186,"('from', 'home')",2,0
-15190,"('and', 'night')",2,0
-15299,"('nocnym', '22', '00', '6')",2,0
-15305,"('oferujemy', 'wsparcie')",2,0
-15637,"('2', '4', 'godziny')",2,0
-15072,"('gotowymi', 'skryptami')",2,0
-15630,"('2', '4')",2,0
-15621,"('trwania', 'programu')",2,0
-15640,"('transakcji', 'walutowych')",2,0
-12610,"('j', 'angielskiego')",2,0
-15311,"('wszystkiego', 'uczymy')",2,0
-15681,"('credit', 'agricole')",2,0
-15695,"('świecie', 'marketingu')",2,0
-15680,"('grupy', 'credit', 'agricole')",2,0
-15679,"('grupy', 'credit')",2,0
-15578,"('preferowane', 'osoby')",2,0
-15575,"('audytów', 'energetycznych')",2,0
-15391,"('fangol', 'pl')",2,0
-15458,"('stronie', 'ministerstwa')",2,0
-15456,"('ministerstwa', 'rozwoju')",2,0
-15453,"('stronie', 'ministerstwa', 'rozwoju')",2,0
-15395,"('piłki', 'nożnej')",2,0
-15393,"('rzetelnych', 'treści')",2,0
-15392,"('real', 'time')",2,0
-15460,"('samochodów', 'nowych')",2,0
-15474,"('gotowym', 'schematem')",2,0
-15494,"('kontaktów', 'biznesowych')",2,0
-15543,"('ekip', 'budowlanych')",2,0
-15555,"('nowych', 'nieruchomości')",2,0
-15561,"('obsługi', 'najmu')",2,0
-14111,"('bielsko', 'biała')",2,0
-12306,"('private', 'corporate')",2,0
-12625,"('akt', 'osobowych')",2,0
-12428,"('okiem', 'doświadczonego')",2,0
-12649,"('procesu', 'inwestycyjnego')",2,0
-12646,"('numerycznej', 'mechaniki')",2,0
-12642,"('numerycznej', 'mechaniki', 'płynów')",2,0
-12637,"('elektroniki', 'użytkowej')",2,0
-12635,"('rynku', 'sprzętu')",2,0
-12628,"('swoim', 'domu')",2,0
-12615,"('ruchu', 'międzynarodowym')",2,0
-12624,"('obsługę', 'płacową')",2,0
-12606,"('nauki', 'języka')",2,0
-12620,"('twoją', 'obsługę', 'płacową')",2,0
-12619,"('twoją', 'obsługę')",2,0
-12435,"('jakichkolwiek', 'trudności')",2,0
-12424,"('dobrym', 'znajomość')",2,0
-12940,"('brutto', 'mies')",2,0
-12328,"('prawo', 'wniesienia')",2,0
-12327,"('private', 'corporate', 'consulting')",2,0
-12326,"('corporate', 'consulting', 'sp')",2,0
-12313,"('private', 'corporate', 'consulting', 'sp')",2,0
-12305,"('corporate', 'consulting')",2,0
-10282,"('chcesz', 'dorobić')",2,0
-12845,"('znajomość', 'platformy', 'magento')",2,0
-12356,"('1', '3')",2,0
-12423,"('poziomie', 'dobrym')",2,0
-12394,"('dokumentacji', 'powykonawczej')",2,0
-12421,"('stron', 'internetowych')",2,0
-12420,"('junior', 'junior')",2,0
-12418,"('internetowych', 'opartych')",2,0
-12403,"('poziomie', 'dobrym', 'znajomość')",2,0
-12399,"('analiza', 'dokumentacji')",2,0
-12396,"('rozwoju', 'zawodowego')",2,0
-12361,"('1', '3', 'godziny')",2,0
-12380,"('krajowego', 'rejestru')",2,0
-12379,"('znajomość', 'narzędzi')",2,0
-12378,"('krajowego', 'rejestru', 'sądowego')",2,0
-12377,"('rejestru', 'sądowego')",2,0
-12374,"('połączeniem', 'internetowym')",2,0
-12651,"('asystent', 'projektanta')",2,0
-12904,"('min', 'b1')",2,0
-12903,"('komunikatywna', 'znajomość', 'j')",2,0
-12852,"('obszarze', 'tworzenia')",2,0
-12350,"('czasu', 'dziennie')",2,0
-12899,"('możliwości', 'rozwoju')",2,0
-12897,"('komunikatywna', 'znajomość')",2,0
-12927,"('agenta', 'nieruchomości')",2,0
-12865,"('obszarze', 'tworzenia', 'treści')",2,0
-12860,"('języka', 'polskiego')",2,0
-12859,"('platformy', 'magento')",2,0
-12906,"('życiem', 'zawodowym')",2,0
-12908,"('it', 'nl')",2,0
-12654,"('badań', 'klinicznych')",2,0
-12936,"('mile', 'widziane', 'doświadczenie')",2,0
-12869,"('stronie', 'sklepu', 'internetowego')",2,0
-12909,"('de', 'it', 'nl', 'fr')",2,0
-12873,"('sztucznej', 'inteligencji')",2,0
-12916,"('it', 'nl', 'fr', 'en')",2,0
-12915,"('fr', 'en')",2,0
-12914,"('it', 'nl', 'fr')",2,0
-12913,"('nl', 'fr', 'en')",2,0
-12911,"('de', 'it')",2,0
-12910,"('nl', 'fr')",2,0
-12853,"('znajomość', 'języka', 'polskiego')",2,0
-12917,"('de', 'it', 'nl')",2,0
-12848,"('zamieszczania', 'tekstów')",2,0
-12008,"('systemów', 'informatycznych')",2,0
-11989,"('młodszy', 'specjalista', 'ds', 'wsparcia')",2,0
-11970,"('legalizacji', 'pracy')",2,0
-12667,"('adecco', 'poland', 'sp')",2,0
-12666,"('poland', 'sp')",2,0
-12813,"('doradca', 'ds', 'ubezpieczeń')",2,0
-12815,"('ds', 'ubezpieczeń')",2,0
-12816,"('doradca', 'ds')",2,0
-12830,"('10', 'lat')",2,0
-12833,"('wysokie', 'zarobki')",2,0
-12834,"('високі', 'прибутки')",2,0
-12835,"('6000', 'pln')",2,0
-12841,"('opisów', 'produktów')",2,0
-12843,"('sklepu', 'internetowego')",2,0
-12844,"('stronie', 'sklepu')",2,0
-12281,"('jakości', 'usług', 'it')",2,0
-12005,"('młodszy', 'specjalista', 'ds')",2,0
-11988,"('stanowisko', 'młodszy', 'specjalista', 'ds')",2,0
-12000,"('vitalabo', 'laboratoria', 'medyczne')",2,0
-11999,"('specjalista', 'ds', 'wsparcia')",2,0
-11998,"('ds', 'wsparcia', 'użytkowników')",2,0
-11996,"('laboratoria', 'medyczne')",2,0
-11990,"('specjalista', 'ds', 'wsparcia', 'użytkowników')",2,0
-11983,"('vitalabo', 'laboratoria')",2,0
-12304,"('consulting', 'sp')",2,0
-11639,"('pobytu', 'cudzoziemców')",2,0
-11960,"('2', '8')",2,0
-11838,"('własnego', 'biznesu')",2,0
-11837,"('grupy', 'axa')",2,0
-11836,"('axa', 'assistance')",2,0
-11677,"('stron', 'www')",2,0
-11668,"('obsługę', 'klienta')",2,0
-11664,"('całego', 'świata')",2,0
-11647,"('pracy', 'cudzoziemców')",2,0
-11621,"('implementation', 'training')",2,0
-11978,"('terenie', 'niemiec')",2,0
-11615,"('możesz', 'pracować')",2,0
-11789,"('najszybszego', 'internetu')",2,0
-11812,"('tektury', 'falistej')",2,0
-11827,"('kč', 'miesięcznie')",2,0
-12001,"('laboratoria', 'medyczne', 'sp')",2,0
-12006,"('stanowisko', 'młodszy', 'specjalista')",2,0
-12277,"('świadczonych', 'usług')",2,0
-12168,"('poziomie', 'min')",2,0
-9198,"('www', 'velobank', 'pl')",2,0
-6568,"('wycofaniem', 'zgodę', 'mogę')",2,0
-15641,"('poprzez', 'wykonywanie')",2,0
-12268,"('it', 'neuca', 'mająca')",2,0
-12261,"('świadczonych', 'usług', 'it')",2,0
-12259,"('neuca', 'mająca')",2,0
-12235,"('musisz', 'inwestować')",2,0
-12234,"('stałe', 'źródło', 'dochodu')",2,0
-12227,"('stałe', 'źródło')",2,0
-8024,"('jakości', 'produktów')",2,0
-12121,"('wioski', 'dziecięce')",2,0
-12119,"('sos', 'wioski')",2,0
-12023,"('medyczne', 'sp')",2,0
-12047,"('czeski', 'rumuński')",2,0
-12025,"('80', 'zł')",2,0
-12024,"('vitalabo', 'laboratoria', 'medyczne', 'sp')",2,0
-12017,"('stanowisko', 'młodszy')",2,0
-12117,"('sos', 'wioski', 'dziecięce')",2,0
-12016,"('młodszy', 'specjalista')",2,0
-12014,"('ds', 'wsparcia')",2,0
-13511,"('sprzedaży', 'komunikacji')",2,0
-13510,"('znajomość', 'języka', 'niemieckiego')",2,0
-1459,"('aldi', 'pl')",2,0
-12263,"('przedstawicielami', 'jednostek')",2,0
-12271,"('jakości', 'usług')",2,0
-12073,"('wzięcia', 'udziału')",2,0
-12012,"('wsparcia', 'użytkowników')",2,0
-12939,"('prowadzenie', 'procesów')",2,0
-12945,"('obszarze', 'sprzedaży')",2,0
-13733,"('8', 'vat')",2,0
-13736,"('każdego', 'kierowcy')",2,0
-13713,"('usługi', 'pakowania')",2,0
-13712,"('technik', 'sprzedaży')",2,0
-12051,"('węgierski', 'czeski', 'rumuński')",2,0
-13707,"('sklep', 'internetowy')",2,0
-13892,"('product', 'owner')",2,0
-13890,"('php', '7')",2,0
-13873,"('bieżąca', 'obsługa')",2,0
-13867,"('pracę', 'pracę')",2,0
-12946,"('prowadzenie', 'procesów', 'rekrutacyjnych')",2,0
-13536,"('dziale', 'sprzedaży')",2,0
-13518,"('systemów', 'linux')",2,0
-13515,"('wiązek', 'elektrycznych')",2,0
-13871,"('okresie', 'próbnym')",2,0
-12049,"('węgierski', 'czeski')",2,0
-12009,"('ochrony', 'danych', 'osobowych')",2,0
-13508,"('wsparcie', 'zespołu')",2,0
-12991,"('stronie', 'www', 'probet')",2,0
-12992,"('www', 'probet', 'info')",2,0
-12993,"('probet', 'info', 'pl')",2,0
-13628,"('transportu', 'kierowców')",2,0
-13904,"('praktyczna', 'znajomość', 'języka')",2,0
-13905,"('ios', 'android')",2,0
-13909,"('certyfikat', 'istqb')",2,0
-13966,"('zenox', 'pl')",2,0
-13973,"('insert', 'gt')",2,0
-13974,"('znajomość', 'sytemu')",2,0
-13975,"('obsłudze', 'klienta')",2,0
-13979,"('wysokie', 'premie')",2,0
-13986,"('testów', 'jednostkowych')",2,0
-13987,"('objective', 'c')",2,0
-13992,"('tworzeniu', 'aplikacji', 'mobilnych')",2,0
-13994,"('tworzeniu', 'aplikacji')",2,0
-13164,"('treści', 'danych')",2,0
-13035,"('rynku', 'oze')",2,0
-13028,"('doświadczonych', 'handlowców')",2,0
-12975,"('oferujemy', 'stabilne')",2,0
-12949,"('kontrakt', 'b2b')",2,0
-3224,"('zespołu', 'it')",2,0
-13631,"('paliwo', 'opłaty')",2,0
-13500,"('przyjmowanie', 'zleceń')",2,0
-12952,"('widziane', 'doświadczenie')",2,0
-13486,"('minimum', 'c1')",2,0
-12994,"('info', 'pl')",2,0
-12995,"('probet', 'info')",2,0
-12996,"('www', 'probet')",2,0
-12997,"('zarabiaj', 'tyle')",2,0
-13000,"('www', 'probet', 'info', 'pl')",2,0
-13001,"('stronie', 'www', 'probet', 'info')",2,0
-13178,"('realizacji', 'procesu', 'rekrutacji')",2,0
-13187,"('realizacji', 'procesu')",2,0
-13366,"('8', '16')",2,0
-12948,"('procesach', 'rekrutacyjnych')",2,0
-13363,"('9', '17')",2,0
-13340,"('wydział', 'prawa')",2,0
-13338,"('bnp', 'paribas')",2,0
-13334,"('pionu', 'prawnego')",2,0
-13228,"('e', 'commerce')",2,0
-13233,"('stanowisku', 'koordynatora')",2,0
-12985,"('human', 'resources')",2,0
-3226,"('ostrów', 'wielkopolski')",2,0
-12093,"('uszkodzonego', 'pojazdu')",2,0
-13231,"('subiekt', 'gt')",2,0
-1637,"('ds', 'obsługi', 'klienta')",2,0
-13193,"('marbet', 'sp')",2,0
-13275,"('językiem', 'ukraińskim')",2,0
-13322,"('kat', 'b')",2,0
-13323,"('niemiec', 'anglii')",2,0
-7374,"('naszej', 'firmie', 'stale', 'uczysz')",2,0
-2932,"('osiągnąć', 'wysokie')",2,0
-2927,"('dodatkowe', 'źródło', 'dochodu')",2,0
-2905,"('sklepu', 'zoologicznego')",2,0
-2840,"('udzielamy', 'informacji')",2,0
-3164,"('current', 'customer')",2,0
-3163,"('the', 'current')",2,0
-3162,"('you', 'will')",2,0
-3165,"('customer', 'complaint')",2,0
-3166,"('be', 'an')",2,0
-3167,"('an', 'advantage')",2,0
-3169,"('in', 'optimization')",2,0
-3171,"('good', 'knowledge')",2,0
-3172,"('very', 'good')",2,0
-2339,"('nowe', 'możliwości')",2,0
-13210,"('rekrutacji', 'zgodnie')",2,0
-13192,"('bielsku', 'białej')",2,0
-3173,"('part', 'of', 'the')",2,0
-13230,"('t', 'pack')",2,0
-3174,"('part', 'of')",2,0
-3178,"('of', 'the', 'current', 'customer')",2,0
-3179,"('the', 'current', 'customer', 'complaint')",2,0
-3181,"('be', 'an', 'advantage')",2,0
-3182,"('will', 'be', 'an')",2,0
-3183,"('customer', 'complaints', 'according')",2,0
-2969,"('udzielanie', 'informacji')",2,0
-2992,"('znasz', 'język')",2,0
-3176,"('the', 'current', 'customer')",2,0
-2317,"('pozytywni', 'ludzie')",2,0
-2330,"('posprzedażową', 'obsługą')",2,0
-2327,"('specjalistów', 'zajmujących')",2,0
-2326,"('zespół', 'specjalistów')",2,0
-2325,"('budować', 'zespół')",2,0
-2294,"('nowe', 'możliwości', 'ciekawe')",2,0
-2293,"('możliwości', 'ciekawe', 'zadania')",2,0
-2333,"('języku', 'niemieckim')",2,0
-2335,"('niemieckim', 'czekają')",2,0
-2331,"('obsługą', 'klienta')",2,0
-3175,"('current', 'customer', 'complaint')",2,0
-2340,"('możliwości', 'ciekawe')",2,0
-2278,"('budować', 'zespół', 'specjalistów')",2,0
-3326,"('polskie', 'towarzystwo')",2,0
-3322,"('centrum', 'wrocławia')",2,0
-2250,"('nowe', 'możliwości', 'ciekawe', 'zadania')",2,0
-2264,"('języku', 'niemieckim', 'czekają')",2,0
-2273,"('posprzedażową', 'obsługą', 'klienta')",2,0
-2277,"('zespół', 'specjalistów', 'zajmujących')",2,0
-3184,"('responsible', 'for')",2,0
-3185,"('complaints', 'according')",2,0
-3187,"('will', 'be', 'an', 'advantage')",2,0
-3986,"('konto', 'bankowe')",2,0
-3894,"('uzgadnianie', 'sald')",2,0
-3897,"('praca', '100')",2,0
-3901,"('pozytywny', 'wizerunek')",2,0
-3909,"('m', 'olsztynek')",2,0
-3921,"('m', 'działdowo')",2,0
-4029,"('m', 'gorzów')",2,0
-4040,"('m', 'zielona')",2,0
-4079,"('osoby', 'zainteresowane')",2,0
-4064,"('osoby', 'zainteresowane', 'prosimy')",2,0
-2341,"('ciekawe', 'zadania')",2,0
-13325,"('autem', 'dostawczym')",2,0
-2211,"('budować', 'zespół', 'specjalistów', 'zajmujących')",2,0
-2210,"('chcesz', 'razem')",2,0
-4071,"('przesłanie', 'cv')",2,0
-3446,"('mieć', 'wpływ')",2,0
-3310,"('rem', 'ax')",2,0
-3308,"('www', 'rem')",2,0
-3299,"('www', 'rem', 'ax')",2,0
-3392,"('działu', 'hr')",2,0
-3395,"('chciałabyś', 'chciałbyś')",2,0
-3405,"('3', 'lat')",2,0
-3329,"('dyspozycji', 'terapeutów')",2,0
-3420,"('t', 'mobile')",2,0
-3448,"('zleceń', 'pośrednictwa')",2,0
-4078,"('zainteresowane', 'prosimy')",2,0
-3449,"('lubisz', 'mieć', 'wpływ')",2,0
-3454,"('klientów', 'popytowych')",2,0
-3209,"('brutto', 'uop')",2,0
-3230,"('ds', 'zakupów', 'praca', 'hybrydowa')",2,0
-3229,"('specjalista', 'ds', 'zakupów', 'praca')",2,0
-3228,"('zakupów', 'praca', 'hybrydowa')",2,0
-3423,"('zagadnień', 'związanych')",2,0
-3188,"('good', 'knowledge', 'of')",2,0
-13509,"('realizacji', 'usługi')",2,0
-3208,"('5', 'lat')",2,0
-399,"('branie', 'udziału')",2,0
-1001,"('branży', 'sprzedaży')",2,0
-3200,"('frameworka', 'laravel')",2,0
-3199,"('ostrowie', 'wielkopolskim')",2,0
-3197,"('stack', 'technologiczny')",2,0
-3189,"('and', 'will')",2,0
-3235,"('procesów', 'zakupowych')",2,0
-3237,"('praca', 'hybrydowa')",2,0
-3238,"('zakupów', 'praca')",2,0
-3239,"('ds', 'zakupów')",2,0
-3241,"('specjalista', 'ds', 'zakupów')",2,0
-3242,"('ds', 'zakupów', 'praca')",2,0
-3253,"('specjalisty', 'ds', 'mediów')",2,0
-3255,"('facebook', 'ads')",2,0
-3264,"('ds', 'mediów')",2,0
-3265,"('specjalisty', 'ds')",2,0
-3451,"('wyszukiwanie', 'nieruchomości')",2,0
-3460,"('lubisz', 'mieć')",2,0
-3642,"('centrum', 'obsługi', 'klientów', 'sp')",2,0
-3504,"('warta', 'poznań')",2,0
-3491,"('poszukujemy', 'osoby')",2,0
-3202,"('automatyzacja', 'procesów')",2,0
-3693,"('61', '814')",2,0
-1819,"('technical', 'and', 'non')",2,0
-3691,"('ratajczaka', '19')",2,0
-3620,"('sekretariat', 'centrum')",2,0
-3613,"('klientów', 'sp')",2,0
-3609,"('współpracownicy', 'administratora')",2,0
-3695,"('przeprowadzenia', 'rekrutacji')",2,0
-3698,"('każdej', 'chwili')",2,0
-3702,"('cofnięcie', 'zgody')",2,0
-3710,"('prawem', 'przetwarzania')",2,0
-3597,"('dodatkowych', 'danych')",2,0
-3735,"('danych', 'prawo', 'żądania')",2,0
-3598,"('panią', 'dodatkowych')",2,0
-3464,"('klientami', 'podażowymi')",2,0
-3527,"('as', 'well')",2,0
-3526,"('well', 'as')",2,0
-3525,"('lufthansa', 'group', 's')",2,0
-3524,"('group', 's')",2,0
-3519,"('będziesz', 'pracował')",2,0
-3506,"('ds', 'sprzedaży')",2,0
-3753,"('ul', 'ratajczaka', '19')",2,0
-3681,"('ul', 'ratajczaka')",2,0
-3637,"('potrzeby', 'przyszłych', 'rekrutacji')",2,0
-3473,"('ms', 'office')",2,0
-753,"('связи', 'с')",2,0
-754,"('на', 'рынке')",2,0
-3471,"('zakupowe', 'milionów')",2,0
-3470,"('power', 'point')",2,0
-3529,"('as', 'well', 'as')",2,0
-3558,"('obsługi', 'klientów', 'sp')",2,0
-3583,"('strony', 'www')",2,0
-3587,"('podstawie', 'art')",2,0
-707,"('paymento', 'financial', 's')",2,0
-715,"('paymento', 'financial')",2,0
-657,"('placówką', 'stomatologiczną')",2,0
-3584,"('portalu', 'internetowego')",2,0
-724,"('chcesz', 'rozwijać')",2,0
-725,"('rozwijać', 'swoją')",2,0
-732,"('rozwijać', 'swoją', 'karierę')",2,0
-736,"('swoją', 'karierę')",2,0
-739,"('insert', 'nexo')",2,0
-740,"('linii', 'insert')",2,0
-741,"('linii', 'insert', 'nexo')",2,0
-746,"('baz', 'transportowych')",2,0
-722,"('financial', 's')",2,0
-750,"('требуется', 'менеджер')",2,0
-3205,"('developer', 'osoby')",2,0
-751,"('клиентов', 'и')",2,0
-502,"('birdki', 'auto', 'transport')",2,0
-755,"('и', 'мы')",2,0
-656,"('oferujemy', 'atrakcyjne')",2,0
-757,"('bazy', 'kontaktów')",2,0
-567,"('kategorii', 'c', 'e')",2,0
-566,"('kategorii', 'c')",2,0
-565,"('karta', 'kierowcy')",2,0
-505,"('zleceń', 'transportowych')",2,0
-752,"('наши', 'услуги')",2,0
-756,"('специалисты', 'с')",2,0
-574,"('sprzedaż', 'szkoleń')",2,0
-758,"('bazy', 'kontaktów', 'obsłudze')",2,0
-499,"('auto', 'transport')",2,0
-1003,"('branży', 'sprzedaży', 'bezpośredniej')",2,0
-1012,"('naszym', 'partnerom')",2,0
-1010,"('marka', 'nr')",2,0
-1009,"('sprzedaży', 'bezpośredniej')",2,0
-1006,"('nr', '1')",2,0
-1002,"('marka', 'nr', '1')",2,0
-3624,"('panią', 'dodatkowych', 'danych')",2,0
-968,"('sprzedaży', 'doradczej')",2,0
-1683,"('podatków', 'dochodowych')",2,0
-1680,"('osób', 'prawnych')",2,0
-759,"('kontaktów', 'obsłudze')",2,0
-803,"('google', 'meet')",2,0
-804,"('google', 'calendar')",2,0
-801,"('szkole', 'językowej')",2,0
-887,"('public', 'relations')",2,0
-888,"('swoją', 'przyszłość')",2,0
-891,"('bezpiecznemieszkania', 'pl')",2,0
-917,"('jysk', 'pl')",2,0
-920,"('kanałach', 'cyfrowych')",2,0
-189,"('2', 'godziny')",2,0
-24,"('planów', 'sprzedaży')",2,0
-47,"('react', 'js')",2,0
-25,"('zdolności', 'negocjacyjne')",2,0
-21,"('stanowisku', 'odpowiedzialna')",2,0
-19,"('ciekawą', 'pracę')",2,0
-18,"('bau', 'team')",2,0
-17,"('team', 'poland')",2,0
-1836,"('processes', 'and')",2,0
-1837,"('g', 'data')",2,0
-977,"('procedurach', 'narodowych')",2,0
-981,"('synoptis', 'pharma')",2,0
-15,"('bau', 'team', 'poland')",2,0
-1827,"('using', 'data')",2,0
-1818,"('and', 'non', 'technical')",2,0
-1817,"('e', 'g', 'data')",2,0
-1795,"('siedzibie', 'firmy')",2,0
-1791,"('wspierających', 'sprzedaż')",2,0
-1821,"('data', 'based', 'solutions')",2,0
-1822,"('technical', 'and', 'non', 'technical')",2,0
-113,"('birdki', 'auto')",2,0
-1823,"('of', 'using', 'data')",2,0
-1828,"('based', 'solutions')",2,0
-9,"('ofert', 'handlowych')",2,0
-1829,"('technical', 'audience')",2,0
-1830,"('non', 'technical')",2,0
-1831,"('and', 'non')",2,0
-1832,"('technical', 'and')",2,0
-1833,"('non', 'technical', 'audience')",2,0
-1834,"('and', 'non', 'technical', 'audience')",2,0
-1826,"('of', 'using')",2,0
-7,"('działem', 'handlowym')",2,0
-1672,"('profesjonalnych', 'szkoleń')",2,0
-1138,"('5', '000')",2,0
-991,"('problem', 'praca')",2,0
-1194,"('bazy', 'nieruchomości')",2,0
-1671,"('wysokie', 'prowizje')",2,0
-1669,"('przejrzysty', 'system')",2,0
-1668,"('przejrzysty', 'system', 'prowizyjny')",2,0
-1757,"('obszarze', 'bhp')",2,0
-1758,"('oceny', 'ryzyka', 'zawodowego')",2,0
-1761,"('ryzyka', 'zawodowego')",2,0
-1762,"('oceny', 'ryzyka')",2,0
-1769,"('ochrony', 'środowiska')",2,0
-1982,"('linii', 'lotniczej')",2,0
-1874,"('pojazdów', 'ciężarowych')",2,0
-1312,"('wyrobów', 'hutniczych')",2,0
-1287,"('що', 'ви')",2,0
-1280,"('mellon', 'poland', 'sp')",2,0
-1270,"('mellon', 'poland')",2,0
-1385,"('29', 'sierpnia', '1997')",2,0
-1395,"('sierpnia', '1997', 'r')",2,0
-1396,"('english', 'as')",2,0
-1404,"('you', 'are')",2,0
-1410,"('ischool', 'english', 'language', 'centre')",2,0
-1673,"('system', 'prowizyjny')",2,0
-1406,"('29', 'sierpnia', '1997', 'r')",2,0
-1236,"('formie', 'hybrydowej')",2,0
-1550,"('przygotowanie', 'rekomendacji')",2,0
-1415,"('29', 'sierpnia')",2,0
-1417,"('1997', 'r')",2,0
-1560,"('mile', 'widziana', 'znajomość', 'zagadnień')",2,0
-1570,"('rozliczanie', 'transakcji')",2,0
-1564,"('ds', 'kadr')",2,0
-1562,"('widziana', 'znajomość', 'zagadnień')",2,0
-1561,"('warunki', 'pracy')",2,0
-1559,"('000', '00zł')",2,0
-1547,"('przedstawiciela', 'sprzedaży')",2,0
-984,"('obszarach', 'rynku')",2,0
-1543,"('wdrożeniu', 'systemu')",2,0
-1603,"('blisko', 'centrum')",2,0
-1608,"('okresie', 'szkoleniowym')",2,0
-1628,"('bazy', 'kandydatów')",2,0
-1635,"('systemu', 'sap')",2,0
-1636,"('ds', 'obsługi')",2,0
-3210,"('netto', 'b2b')",2,0
-1416,"('sierpnia', '1997')",2,0
-3177,"('of', 'the', 'current')",2,0
-7669,"('obejmować', 'pozyskiwanie', 'klientów')",2,0
-12272,"('przedstawicielami', 'jednostek', 'biznesowych')",2,0
-1431,"('english', 'language', 'centre')",2,0
-1426,"('procesami', 'rekrutacyjnymi')",2,0
-1423,"('celach', 'związanych')",2,0
-1476,"('r', 'wyrażam', 'zgodę')",2,0
-1478,"('pracy', 'możesz')",2,0
-1512,"('r', 'wyrażam')",2,0
-6692,"('prawną', 'przetwarzania', 'danych')",2,0
-6704,"('zgoda', 'art', '6')",2,0
-6703,"('adres', 'rekrutacja', 'at', 'customerservice24')",2,0
-6701,"('polsat', 'box')",2,0
-6695,"('care', 'ltd', 'prowadzącą', 'działalność')",2,0
-6688,"('prawnie', 'uzasadniony', 'interes')",2,0
-6717,"('ltd', 'prowadzącą')",2,0
-6671,"('customer', 'care', 'ltd', 'prowadzącą')",2,0
-6670,"('spółkę', 'tcc', 'telecomunication', 'customer')",2,0
-6666,"('warszawie', 'ul', 'łubinowa', '4a')",2,0
-6715,"('spółkę', 'tcc')",2,0
-6718,"('prowadzącą', 'działalność')",2,0
-6565,"('odwołać', 'przesyłając', 'informację')",2,0
-6566,"('mogę', 'odwołać', 'przesyłając')",2,0
-1427,"('możliwość', 'prowadzenia')",2,0
-6757,"('at', 'customerservice24', 'pl', 'klauzula')",2,0
-6495,"('będziemy', 'przetwarzać')",2,0
-6756,"('wycofaniem', 'zgodę', 'mogę', 'odwołać')",2,0
-6739,"('mojej', 'aplikacji')",2,0
-6736,"('danych', 'zawartych')",2,0
-6729,"('rekrutacja', 'at', 'customerservice24', 'pl')",2,0
-6657,"('obsługę', 'korespondencji')",2,0
-6632,"('wycofaniem', 'zgodę')",2,0
-6626,"('skontaktować', 'poprzez')",2,0
-6540,"('świadczące', 'usługi')",2,0
-6753,"('obsługi', 'korespondencji')",2,0
-6557,"('adres', 'rekrutacja', 'at')",2,0
-6555,"('customerservice24', 'pl', 'klauzula')",2,0
-6552,"('zgoda', 'art')",2,0
-6622,"('daneosobowe', 'at')",2,0
-6535,"('pl', 'klauzula')",2,0
-6534,"('rekrutacja', 'at')",2,0
-6533,"('adres', 'rekrutacja')",2,0
-6532,"('wycofaniu', 'zgody')",2,0
-6529,"('przesyłając', 'informację')",2,0
-6556,"('rekrutacja', 'at', 'customerservice24')",2,0
-6719,"('warszawie', 'ul')",2,0
-6567,"('zgodę', 'mogę', 'odwołać')",2,0
-6228,"('financing', 'for')",2,0
-6229,"('for', 'employees')",2,0
-6232,"('with', 'customer')",2,0
-6576,"('uzasadniony', 'interes')",2,0
-6596,"('zgoda', 'art', '6', 'ust')",2,0
-6620,"('zgodę', 'mogę', 'odwołać', 'przesyłając')",2,0
-6785,"('znajomość', 'języka', 'niderlandzkiego')",2,0
-6959,"('nowe', 'technologie')",2,0
-6940,"('malpa', 'pradma', 'pl')",2,0
-6936,"('malpa', 'pradma')",2,0
-7022,"('arttime', 'outsourcing', 'sp')",2,0
-7030,"('agencji', 'pracy')",2,0
-6789,"('języka', 'niderlandzkiego')",2,0
-6840,"('pisaniu', 'aktów', 'notarialnych')",2,0
-6841,"('aktów', 'notarialnych')",2,0
-6842,"('pisaniu', 'aktów')",2,0
-6913,"('pradma', 'pl')",2,0
-6528,"('odwołać', 'przesyłając')",2,0
-6527,"('mogę', 'odwołać')",2,0
-6526,"('zgodę', 'mogę')",2,0
-6225,"('electronic', 'or')",2,0
-7610,"('firmie', 'stale', 'uczysz')",2,0
-6575,"('prawnie', 'uzasadniony')",2,0
-6570,"('podstawą', 'prawną', 'przetwarzania', 'danych')",2,0
-6213,"('sieci', 'komórkowych')",2,0
-6094,"('validation', 'and')",2,0
-6150,"('możliwość', 'realizacji')",2,0
-6234,"('risk', 'assessments')",2,0
-6081,"('przepisami', 'prawa')",2,0
-6085,"('technical', 'support')",2,0
-6089,"('and', 'internal')",2,0
-6090,"('customer', 'and')",2,0
-6091,"('stakeholder', 'requirements')",2,0
-6092,"('product', 'functional')",2,0
-6233,"('such', 'as')",2,0
-6226,"('skills', 'are')",2,0
-6409,"('functional', 'safety')",2,0
-6407,"('technical', 'safety', 'concept')",2,0
-6406,"('and', 'track')",2,0
-6404,"('safety', 'concept')",2,0
-6402,"('safety', 'requirements')",2,0
-6398,"('uzasadniony', 'interes', 'administratora')",2,0
-6227,"('years', 'of')",2,0
-7601,"('kolejnym', 'etapie', 'będziesz')",2,0
-6746,"('wycofanie', 'zgody')",2,0
-6497,"('daneosobowe', 'at', 'customerservice24')",2,0
-1441,"('language', 'centre')",2,0
-6333,"('interesem', 'administratora')",2,0
-6512,"('ltd', 'prowadzącą', 'działalność')",2,0
-6514,"('care', 'ltd', 'prowadzącą')",2,0
-6516,"('mogę', 'odwołać', 'przesyłając', 'informację')",2,0
-6394,"('podmiotach', 'sektora', 'finansowego')",2,0
-6237,"('and', 'maintain')",2,0
-6332,"('ewentualnych', 'roszczeń')",2,0
-6328,"('60', 'dni')",2,0
-6326,"('zakończenia', 'publikacji')",2,0
-6325,"('publikacji', 'ogłoszenia')",2,0
-6322,"('postępu', '21b', '02', '676')",2,0
-6315,"('zakończenia', 'publikacji', 'ogłoszenia')",2,0
-6312,"('21b', '02', '676', 'warszawa')",2,0
-6376,"('dochodzenia', 'ewentualnych', 'roszczeń')",2,0
-6310,"('02', '676', 'warszawa')",2,0
-6300,"('676', 'warszawa')",2,0
-6295,"('postępu', '21b', '02')",2,0
-6294,"('21b', '02', '676')",2,0
-6239,"('the', 'cybersecurity')",2,0
-7677,"('realnych', 'celów', 'sprzedażowych')",2,0
-6508,"('spółkę', 'tcc', 'telecomunication')",2,0
-6334,"('ul', 'postępu')",2,0
-6499,"('daneosobowe', 'at', 'customerservice24', 'pl')",2,0
-6336,"('ul', 'postępu', '21b')",2,0
-6344,"('zakresie', 'określonym')",2,0
-6355,"('sektora', 'finansowego')",2,0
-6356,"('podmiotach', 'sektora')",2,0
-6361,"('uzasadniony', 'interes', 'administratora', 'art')",2,0
-6362,"('osób', 'zatrudnionych')",2,0
-6363,"('02', '676')",2,0
-6364,"('21b', '02')",2,0
-6369,"('niekaralności', 'osób')",2,0
-6342,"('dochodzenia', 'ewentualnych')",2,0
-7710,"('etapie', 'będziesz')",2,0
-7723,"('motywowanie', 'organizację')",2,0
-7721,"('nowych', 'doradców')",2,0
-7716,"('realizację', 'realnych')",2,0
-7715,"('realnych', 'celów')",2,0
-7714,"('celów', 'sprzedażowych')",2,0
-7709,"('będziesz', 'odpowiadać')",2,0
-7658,"('monitorowanie', 'pracy', 'będziesz', 'dbać')",2,0
-7704,"('kolejnym', 'etapie')",2,0
-7724,"('poprzez', 'motywowanie')",2,0
-6503,"('warszawie', 'ul', 'łubinowa')",2,0
-12254,"('jednostek', 'biznesowych')",2,0
-7725,"('biznesowych', 'poprzez')",2,0
-7565,"('pracy', 'nowych', 'doradców', 'ubezpieczeniowych')",2,0
-7727,"('osiąganiu', 'celów')",2,0
-7731,"('wspierać', 'członków')",2,0
-7732,"('będziesz', 'wspierać')",2,0
-7733,"('zespół', 'będziesz')",2,0
-7734,"('swój', 'zespół')",2,0
-7735,"('zbudować', 'swój')",2,0
-7737,"('pracy', 'nowych')",2,0
-7743,"('zbudować', 'swój', 'zespół', 'będziesz')",2,0
-7744,"('swój', 'zespół', 'będziesz', 'wspierać')",2,0
-7745,"('zespół', 'będziesz', 'wspierać', 'członków')",2,0
-7746,"('będziesz', 'wspierać', 'członków', 'zespołu')",2,0
-7751,"('osiąganiu', 'celów', 'biznesowych', 'poprzez')",2,0
-7752,"('celów', 'biznesowych', 'poprzez', 'motywowanie')",2,0
-7753,"('biznesowych', 'poprzez', 'motywowanie', 'organizację')",2,0
-7663,"('realizację', 'realnych', 'celów')",2,0
-7642,"('ciągłe', 'doskonalenie', 'wiedzy', 'produktowej')",2,0
-7756,"('czego', 'zaczniesz')",2,0
-7559,"('stale', 'uczysz')",2,0
-7668,"('pozyskiwanie', 'klientów', 'udział')",2,0
-7726,"('celów', 'biznesowych')",2,0
-7575,"('poprzez', 'motywowanie', 'organizację')",2,0
-7574,"('motywowanie', 'organizację', 'szkoleń')",2,0
-7576,"('biznesowych', 'poprzez', 'motywowanie')",2,0
-7562,"('czegoś', 'nowego')",2,0
-7558,"('firmie', 'stale')",2,0
-7553,"('wiedzy', 'produktowej')",2,0
-7552,"('doskonalenie', 'wiedzy')",2,0
-7551,"('ciągłe', 'doskonalenie')",2,0
-7550,"('pracy', 'będziesz')",2,0
-7549,"('będziesz', 'dbać')",2,0
-7569,"('doradców', 'ubezpieczeniowych')",2,0
-7578,"('osiąganiu', 'celów', 'biznesowych')",2,0
-7571,"('monitorowanie', 'pracy', 'będziesz')",2,0
-7582,"('wspierać', 'członków', 'zespołu')",2,0
-7583,"('będziesz', 'wspierać', 'członków')",2,0
-7584,"('zespół', 'będziesz', 'wspierać')",2,0
-7585,"('swój', 'zespół', 'będziesz')",2,0
-7586,"('zbudować', 'swój', 'zespół')",2,0
-7590,"('nowych', 'doradców', 'ubezpieczeniowych')",2,0
-7591,"('pracy', 'nowych', 'doradców')",2,0
-7577,"('celów', 'biznesowych', 'poprzez')",2,0
-7611,"('naszej', 'firmie', 'stale')",2,0
-7617,"('doskonalenie', 'wiedzy', 'produktowej')",2,0
-5675,"('26', 'lat')",2,0
-7618,"('ciągłe', 'doskonalenie', 'wiedzy')",2,0
-7631,"('pracy', 'będziesz', 'dbać')",2,0
-7754,"('poprzez', 'motywowanie', 'organizację', 'szkoleń')",2,0
-7757,"('klientów', 'udział')",2,0
-7539,"('znasz', 'czeka')",2,0
-8018,"('warunek', 'konieczny')",2,0
-8021,"('wysokiej', 'jakości', 'produktów')",2,0
-7759,"('pozyskiwanie', 'klientów')",2,0
-7822,"('relacje', 'biznesowe')",2,0
-7793,"('monitorowanie', 'pracy')",2,0
-7791,"('obejmować', 'pozyskiwanie', 'klientów', 'udział')",2,0
-7788,"('kolejnym', 'etapie', 'będziesz', 'odpowiadać')",2,0
-7776,"('realizację', 'realnych', 'celów', 'sprzedażowych')",2,0
-7773,"('organizację', 'szkoleń')",2,0
-7768,"('aktywności', 'zaczniesz')",2,0
-7760,"('obejmować', 'pozyskiwanie')",2,0
-7148,"('prawa', 'pracy')",2,0
-7156,"('obsługi', 'strony')",2,0
-4233,"('k', 'pollena')",2,0
-4239,"('beauty', 'personal', 'care')",2,0
-7630,"('etapie', 'będziesz', 'odpowiadać')",2,0
-7157,"('internetową', 'grupy')",2,0
-5690,"('kanale', 'sprzedaży', 'bezpośredniej')",2,0
-5925,"('art', '9', 'ust')",2,0
-4824,"('magemar', 'com', 'pl')",2,0
-4828,"('magemar', 'polska', 'sp')",2,0
-4830,"('giełd', 'ładunków')",2,0
-4831,"('zobowiązań', 'wobec', 'podwykonawców')",2,0
-4832,"('zobowiązań', 'wobec')",2,0
-4833,"('wobec', 'podwykonawców')",2,0
-4837,"('com', 'pl')",2,0
-4926,"('przedłużanie', 'umów')",2,0
-4838,"('magemar', 'com')",2,0
-4291,"('food', 'household')",2,0
-4289,"('personal', 'care')",2,0
-4187,"('infrastruktury', 'ładowania')",2,0
-4185,"('wykształcenie', 'techniczne', 'elektryczne')",2,0
-4184,"('wykształcenie', 'techniczne')",2,0
-4183,"('techniczne', 'elektryczne')",2,0
-4288,"('beauty', 'personal')",2,0
-4230,"('małpa', 'pollena')",2,0
-4290,"('care', 'food')",2,0
-5921,"('9', 'ust')",2,0
-4244,"('pollena', 's')",2,0
-4253,"('personal', 'care', 'food')",2,0
-5572,"('walki', 'com')",2,0
-5510,"('czasu', 'pracy')",2,0
-4260,"('personal', 'care', 'food', 'household')",2,0
-4264,"('beauty', 'personal', 'care', 'food')",2,0
-4277,"('k', 'pollena', 's')",2,0
-4285,"('segmentów', 'opakowania')",2,0
-4561,"('opracowywanie', 'projektów')",2,0
-4568,"('cundall', 'polska', 'sp')",2,0
-4565,"('cofnięcia', 'zgody')",2,0
-4562,"('projektów', 'inst', 'przeciwpożarowych')",2,0
-4560,"('projektów', 'inst')",2,0
-4548,"('inst', 'przeciwpożarowych', 'wodnych')",2,0
-4545,"('opracowywanie', 'projektów', 'inst')",2,0
-4537,"('przeciwpożarowych', 'wodnych')",2,0
-4535,"('celów', 'przyszłych')",2,0
-4532,"('opracowywanie', 'projektów', 'inst', 'przeciwpożarowych')",2,0
-4508,"('finansowych', 'spółek')",2,0
-4524,"('celów', 'przyszłych', 'rekrutacji')",2,0
-4530,"('przypadku', 'wyrażenia')",2,0
-5915,"('letnie', 'doświadczenie')",2,0
-5607,"('dnia', 'przesłania', 'zgłoszenia')",2,0
-4254,"('care', 'food', 'household')",2,0
-5574,"('zgłoszenia', 'rekrutacyjnego')",2,0
-5592,"('dnia', 'przesłania', 'zgłoszenia', 'rekrutacyjnego')",2,0
-5661,"('sports', 'sizeer')",2,0
-5565,"('jatne', 'k')",2,0
-5549,"('dnia', 'przesłania')",2,0
-5548,"('przesłania', 'zgłoszenia')",2,0
-5654,"('rekruterką', 'justyną')",2,0
-5657,"('jd', 'sports', 'sizeer')",2,0
-5658,"('style', 'timberland')",2,0
-5659,"('50', 'style')",2,0
-5541,"('zgłoszenie', 'rekrutacyjne')",2,0
-5398,"('riello', 'delta', 'power')",2,0
-5415,"('samego', 'początku')",2,0
-5414,"('możesz', 'liczyć')",2,0
-5412,"('możliwości', 'pracy')",2,0
-5408,"('delta', 'power')",2,0
-5402,"('riello', 'delta')",2,0
-5506,"('transport', 'sp')",2,0
-5394,"('pracy', 'doradców')",2,0
-5377,"('mail', 'rekrutacja', 'at')",2,0
-5576,"('przesłania', 'zgłoszenia', 'rekrutacyjnego')",2,0
-4816,"('siemianowice', 'śląskie')",2,0
-5375,"('rekrutacja', 'at', 'mcp')",2,0
-5494,"('oferujemy', 'możliwość')",2,0
-5167,"('media', 'facebook', 'instagram')",2,0
-5505,"('mobilia', 'transport', 'sp')",2,0
-5660,"('sizeer', '50')",2,0
-5662,"('jd', 'sports')",2,0
-5371,"('e', 'mail', 'rekrutacja')",2,0
-5818,"('działań', 'marketingowych')",2,0
-5814,"('dobrej', 'znajomości', 'języka')",2,0
-5771,"('that', 'all')",2,0
-5776,"('użytkowników', 'końcowych')",2,0
-5832,"('zdrowego', 'stylu', 'życia')",2,0
-5833,"('stylu', 'życia')",2,0
-5835,"('produktów', 'budowlanych')",2,0
-5837,"('ds', 'rozwoju', 'produktu')",2,0
-5839,"('techniczne', 'doświadczenie')",2,0
-5840,"('ds', 'rozwoju')",2,0
-5894,"('art', '9', 'ust', '1')",2,0
-5906,"('9', 'ust', '1')",2,0
-5909,"('szczególnych', 'kategorii')",2,0
-5159,"('ds', 'social', 'media', 'marketingu')",2,0
-5164,"('media', 'facebook')",2,0
-5503,"('mobilia', 'transport')",2,0
-5498,"('obowiązującymi', 'przepisami')",2,0
-5914,"('art', '9')",2,0
-5664,"('sizeer', '50', 'style')",2,0
-5680,"('zarządzaniu', 'zespołem')",2,0
-5677,"('anglistyka', 'germanistyka')",2,0
-5674,"('przedmiotu', 'szkolnego')",2,0
-5767,"('for', 'you')",2,0
-5672,"('sizeer', '50', 'style', 'timberland')",2,0
-5671,"('sports', 'sizeer', '50', 'style')",2,0
-5663,"('sports', 'sizeer', '50')",2,0
-5669,"('jd', 'sports', 'sizeer', '50')",2,0
-5694,"('kanale', 'sprzedaży')",2,0
-5772,"('internal', 'and', 'external')",2,0
-5754,"('rekrutacji', 'stałych')",2,0
-5764,"('ensure', 'that', 'all')",2,0
-5765,"('and', 'external')",2,0
-5766,"('internal', 'and')",2,0
-5372,"('at', 'mcp', 'org')",2,0
-5367,"('rekrutacja', 'at', 'mcp', 'org')",2,0
-5665,"('50', 'style', 'timberland')",2,0
-5768,"('this', 'offer')",2,0
-5166,"('facebook', 'instagram', 'tiktok')",2,0
-5326,"('blue', 'tank')",2,0
-1435,"('second', 'language')",2,0
-5345,"('firma', 'mcp')",2,0
-5171,"('social', 'media', 'facebook')",2,0
-5173,"('tworzenie', 'grafik')",2,0
-5176,"('ds', 'social', 'media')",2,0
-5177,"('ds', 'social')",2,0
-5179,"('media', 'marketingu')",2,0
-4984,"('projektanta', 'instalacji', 'elektrycznych')",2,0
-4962,"('projektanta', 'instalacji')",2,0
-5178,"('media', 'facebook', 'instagram', 'tiktok')",2,0
-5181,"('social', 'media', 'facebook', 'instagram')",2,0
-5366,"('mail', 'rekrutacja', 'at', 'mcp')",2,0
-5321,"('rewolucyjnej', 'misji', 'blue')",2,0
-5317,"('wsparciem', 'sprzedaży')",2,0
-5314,"('działań', 'związanych')",2,0
-5310,"('rewolucyjnej', 'misji', 'blue', 'tank')",2,0
-5307,"('misji', 'blue', 'tank')",2,0
-5248,"('odbieranie', 'telefonów')",2,0
-5256,"('umiejętność', 'tworzenia', 'grafik')",2,0
-5255,"('tworzenia', 'grafik')",2,0
-5251,"('widziane', 'osoby')",2,0
-5170,"('specjalisty', 'ds', 'social', 'media')",2,0
-5253,"('mile', 'widziane', 'osoby')",2,0
-5322,"('rewolucyjnej', 'misji')",2,0
-5247,"('obsługa', 'maila')",2,0
-5346,"('mcp', 'org')",2,0
-5347,"('celu', 'przeprowadzenia', 'rekrutacji')",2,0
-5352,"('istnieje', 'prawo')",2,0
-5355,"('osobowe', 'przetwarzamy')",2,0
-5356,"('at', 'mcp')",2,0
-5359,"('mail', 'rekrutacja')",2,0
-5364,"('zakopiańska', '58')",2,0
-5365,"('e', 'mail', 'rekrutacja', 'at')",2,0
-5209,"('at', 'mcp', 'org', 'pl')",2,0
-5497,"('prowadzenie', 'pełnej')",2,0
-5246,"('social', 'mediów')",2,0
-5202,"('firma', 'włóczykij')",2,0
-5186,"('social', 'media', 'marketingu')",2,0
-5184,"('specjalisty', 'ds', 'social')",2,0
-5218,"('org', 'pl')",2,0
-5237,"('dane', 'osobowe', 'przetwarzamy')",2,0
-5238,"('mcp', 'org', 'pl')",2,0
-5325,"('misji', 'blue')",2,0
-5245,"('umiejętność', 'tworzenia')",2,0
+11189,"('803', '803')",94,0
+11190,"('803', '803', '803')",86,0
+11191,"('803', '803', '803', '803')",80,0
+11192,"('803', '803', '803', '803', '803')",74,0
+11401,"('jobb', 'her')",62,0
+9608,"('netto', 'vat')",44,0
+8110,"('vat', 'b2b')",44,0
+8111,"('netto', 'vat', 'b2b')",44,0
+8112,"('pln', 'netto')",43,0
+8114,"('pln', 'netto', 'vat', 'b2b')",40,0
+8113,"('pln', 'netto', 'vat')",40,0
+8118,"('tiny', 'pl')",35,0
+9621,"('pln', 'brutto')",28,0
+8137,"('netto', 'vat', 'b2b', 'l')",20,0
+8138,"('vat', 'b2b', 'l')",20,0
+8133,"('b2b', 'l')",20,0
+8134,"('pln', 'netto', 'vat', 'b2b', 'l')",20,0
+24281,"('danych', 'osobowych')",17,0
+9626,"('java', 'developer')",15,0
+9627,"('it', 'leaders')",12,0
+9628,"('15000', 'pln')",11,0
+6047,"('br', '8226')",11,0
+8143,"('developer', 'l')",11,0
+9629,"('softserve', 'poland')",10,0
+8145,"('polska', 'l')",10,0
+9631,"('h', 'netto')",9,0
+9630,"('it', 'leaders', 'pro')",9,0
+9634,"('h', 'netto', 'vat')",9,0
+9635,"('pln', 'h')",9,0
+10939,"('jjit', 'it')",9,0
+9637,"('pln', 'h', 'netto', 'vat')",9,0
+25290,"('usług', 'it')",9,0
+9633,"('pln', 'h', 'netto')",9,0
+9638,"('leaders', 'pro')",9,0
+7954,"('00', '22')",8,0
+10761,"('15', '20', '00')",8,0
+7957,"('11', '00', '22')",8,0
+7955,"('11', '00')",8,0
+10763,"('15', '20')",8,0
+7952,"('11', '00', '22', '00')",8,0
+10764,"('20', '00')",8,0
+10765,"('00', 'zajęcia')",8,0
+7953,"('22', '00')",8,0
+10766,"('17', '15', '20', '00')",8,0
+10767,"('17', '15', '20')",8,0
+7956,"('00', '22', '00')",8,0
+10762,"('17', '15')",8,0
+18637,"('dane', 'osobowe')",8,0
+1178,"('partner', 'scripts')",7,0
+15080,"('customer', 'complaints')",7,0
+9641,"('developer', 'remodevs')",7,0
+9642,"('developer', 'pentacomp')",7,0
+9643,"('pentacomp', 'systemy')",7,0
+8159,"('l', 'bertek', 'polska')",7,0
+1177,"('a_aid', 'q5sk0s4ed8i02')",7,0
+1176,"('q5sk0s4ed8i02', 'a_bid')",7,0
+9644,"('frontend', 'developer')",7,0
+9645,"('developer', 'pentacomp', 'systemy')",7,0
+1175,"('a_aid', 'q5sk0s4ed8i02', 'a_bid')",7,0
+8156,"('20000', 'pln', 'netto', 'vat')",7,0
+8151,"('20000', 'pln', 'netto', 'vat', 'b2b')",7,0
+10769,"('06', '23')",7,0
+5176,"('abpraca', 'pl')",7,0
+8157,"('20000', 'pln', 'netto')",7,0
+29501,"('treści', 'wideo')",7,0
+8158,"('bertek', 'polska', 'l')",7,0
+8152,"('l', 'bertek', 'polska', 'l')",7,0
+8153,"('20000', 'pln')",7,0
+8154,"('bertek', 'polska')",7,0
+8155,"('l', 'bertek')",7,0
+9640,"('php', 'developer')",7,0
+6691,"('10', '6')",6,0
+15580,"('twoich', 'danych')",6,0
+9648,"('15000', 'pln', 'brutto')",6,0
+18645,"('customer', 'care')",6,0
+18646,"('tcc', 'telecomunication')",6,0
+18647,"('tcc', 'telecomunication', 'customer', 'care', 'ltd')",6,0
+9647,"('12000', 'pln')",6,0
+18640,"('telecomunication', 'customer')",6,0
+5877,"('pompy', 'ciepła')",6,0
+24118,"('administratora', 'danych')",6,0
+8679,"('auchan', 'ul')",6,0
+18638,"('care', 'ltd')",6,0
+18644,"('telecomunication', 'customer', 'care', 'ltd')",6,0
+18643,"('tcc', 'telecomunication', 'customer', 'care')",6,0
+18642,"('customer', 'care', 'ltd')",6,0
+6940,"('amlux', 'sp')",6,0
+18639,"('tcc', 'telecomunication', 'customer')",6,0
+18641,"('telecomunication', 'customer', 'care')",6,0
+11196,"('godox', 'show')",6,0
+10775,"('godzinach', '17')",6,0
+10772,"('20', '00', 'zajęcia')",6,0
+10771,"('15', '20', '00', 'zajęcia')",6,0
+20599,"('social', 'media')",6,0
+6093,"('br', '9989')",6,0
+4679,"('winobranie', 'bispolhr')",6,0
+7928,"('br', '9')",6,0
+10773,"('17', '15', '20', '00', 'zajęcia')",6,0
+8161,"('php', 'symfony', 'developer')",6,0
+8160,"('net', 'developer')",6,0
+8163,"('php', 'symfony')",6,0
+8162,"('symfony', 'developer')",6,0
+3973,"('hr', 'navigator')",5,0
+3972,"('hr', 'now')",5,0
+3971,"('hr', 'creator')",5,0
+8168,"('developer', 'g', 'group')",5,0
+21708,"('velobank', 's')",5,0
+10923,"('lnkd', 'in')",5,0
+8164,"('engineer', 'l')",5,0
+8165,"('g', 'group')",5,0
+21418,"('przetwarzanie', 'danych')",5,0
+3517,"('br', '61607')",5,0
+6693,"('10', '6', '1090')",5,0
+6692,"('6', '1090')",5,0
+11308,"('000', 'pln', 'net')",5,0
+11309,"('000', 'pln')",5,0
+11311,"('pln', 'net')",5,0
+3303,"('ims', 'gmbh')",5,0
+11312,"('000', 'pln', 'net', 'b2b')",5,0
+11313,"('pln', 'net', 'b2b')",5,0
+3362,"('spółek', 'ideal')",5,0
+11314,"('net', 'b2b')",5,0
+3699,"('asmo', 'solutions')",5,0
+15081,"('of', 'the')",5,0
+8166,"('developer', 'g')",5,0
+10778,"('05', '23')",5,0
+10784,"('godzinach', '17', '15', '20')",5,0
+17949,"('języka', 'angielskiego')",5,0
+18416,"('art', '6', 'ust', '1')",5,0
+18417,"('art', '6', 'ust')",5,0
+18418,"('6', 'ust', '1')",5,0
+18419,"('ust', '1', 'lit')",5,0
+18420,"('art', '6')",5,0
+18421,"('6', 'ust')",5,0
+10779,"('godzinach', '17', '15', '20', '00')",5,0
+10776,"('godzinach', '17', '15')",5,0
+1039,"('br', 'br')",5,0
+5099,"('12', 'godzin')",5,0
+5098,"('dni', 'pracy')",5,0
+1182,"('partner', 'scripts', 'hvc5hzq')",5,0
+1183,"('scripts', 'hvc5hzq', 'a_aid', 'q5sk0s4ed8i02', 'a_bid')",5,0
+1184,"('scripts', 'hvc5hzq', 'a_aid')",5,0
+1185,"('hvc5hzq', 'a_aid', 'q5sk0s4ed8i02')",5,0
+1186,"('partner', 'scripts', 'hvc5hzq', 'a_aid')",5,0
+1187,"('partner', 'scripts', 'hvc5hzq', 'a_aid', 'q5sk0s4ed8i02')",5,0
+1189,"('scripts', 'hvc5hzq', 'a_aid', 'q5sk0s4ed8i02')",5,0
+1190,"('hvc5hzq', 'a_aid', 'q5sk0s4ed8i02', 'a_bid')",5,0
+1191,"('hvc5hzq', 'a_aid')",5,0
+1192,"('scripts', 'hvc5hzq')",5,0
+5096,"('dni', 'wolnego')",5,0
+4688,"('pl', 'informacje')",5,0
+28386,"('pomp', 'ciepła')",5,0
+18422,"('ust', '1')",5,0
+18423,"('art', '6', 'ust', '1', 'lit')",5,0
+15222,"('re', 'max')",5,0
+18424,"('1', 'lit')",5,0
+9654,"('developer', 'pentacomp', 'systemy', 'informtycze')",5,0
+9652,"('15000', 'pln', 'netto', 'vat')",5,0
+9650,"('junior', 'java')",5,0
+9657,"('junior', 'java', 'developer')",5,0
+9658,"('15000', 'pln', 'netto')",5,0
+9663,"('systemy', 'informtycze')",5,0
+9655,"('pentacomp', 'systemy', 'informtycze')",5,0
+8558,"('bezpieczeństwa', 'it')",5,0
+9664,"('12000', 'pln', 'brutto')",5,0
+18425,"('6', 'ust', '1', 'lit')",5,0
+15582,"('phinance', 's')",5,0
+18648,"('at', 'customerservice24')",4,0
+18430,"('prawną', 'przetwarzania')",4,0
+5103,"('5', 'dni')",4,0
+5107,"('2', 'dni')",4,0
+5437,"('sfs', 'international')",4,0
+20602,"('kanałach', 'social')",4,0
+18650,"('customerservice24', 'pl')",4,0
+20601,"('kanałach', 'social', 'media')",4,0
+5374,"('2', '1')",4,0
+7218,"('ochrony', 'danych')",4,0
+18431,"('kredyt', 'inkaso')",4,0
+21017,"('gliwice', 'futsal')",4,0
+21016,"('piast', 'gliwice', 'futsal')",4,0
+21015,"('piast', 'gliwice')",4,0
+13390,"('e', 'g')",4,0
+4777,"('pgnig', 'serwis', 'sp')",4,0
+4775,"('pgnig', 'serwis')",4,0
+4781,"('serwis', 'sp')",4,0
+18277,"('centrum', 'obsługi', 'klientów')",4,0
+12793,"('santander', 'bank')",4,0
+18396,"('for', 'the')",4,0
+7929,"('br', '10004')",4,0
+18429,"('podstawą', 'prawną')",4,0
+18428,"('podstawą', 'prawną', 'przetwarzania')",4,0
+18662,"('at', 'customerservice24', 'pl')",4,0
+18274,"('centrum', 'obsługi')",4,0
+7965,"('sobota', '11', '00', '22', '00')",4,0
+7964,"('niedziela', '11')",4,0
+7963,"('niedziela', '11', '00', '22', '00')",4,0
+7962,"('sobota', '11')",4,0
+7961,"('sobota', '11', '00')",4,0
+7960,"('niedziela', '11', '00', '22')",4,0
+7959,"('sobota', '11', '00', '22')",4,0
+7958,"('niedziela', '11', '00')",4,0
+16559,"('sprawozdań', 'finansowych')",4,0
+18273,"('obsługi', 'klientów')",4,0
+15082,"('will', 'be')",4,0
+21130,"('danych', 'art')",4,0
+9678,"('19000', 'pln')",4,0
+26122,"('dokumentach', 'aplikacyjnych')",4,0
+9672,"('softserve', 'poland', '15000')",4,0
+9673,"('engineer', 'python')",4,0
+9674,"('9000', 'pln')",4,0
+9675,"('16000', 'pln')",4,0
+9676,"('25000', 'pln')",4,0
+9677,"('bigdata', 'engineer')",4,0
+9679,"('semantive', 'cloud')",4,0
+2188,"('hr', 'navigator', 'hr', 'now')",4,0
+9680,"('15000', '19000')",4,0
+9681,"('engineer', 'softserve', 'poland')",4,0
+9683,"('15000', '19000', 'pln')",4,0
+9684,"('python', 'cloud')",4,0
+9685,"('19000', 'pln', 'netto')",4,0
+9686,"('mid', 'senior')",4,0
+9687,"('engineer', 'softserve')",4,0
+9688,"('front', 'end')",4,0
+9690,"('engineer', 'softserve', 'poland', '15000')",4,0
+2189,"('navigator', 'hr', 'now')",4,0
+9692,"('19000', 'pln', 'netto', 'vat')",4,0
+24126,"('abc', 'audit')",4,0
+8707,"('villa', 'rossa')",4,0
+21132,"('kodeksu', 'pracy')",4,0
+24555,"('7', '00')",4,0
+2190,"('hr', 'navigator', 'hr')",4,0
+25666,"('hart', 'logistics')",4,0
+25910,"('tworzenia', 'treści')",4,0
+9665,"('poland', '15000')",4,0
+9667,"('16000', 'pln', 'brutto')",4,0
+9668,"('administrator', 'aplikacji')",4,0
+9669,"('java', 'developer', 'clurgo')",4,0
+9670,"('15000', '19000', 'pln', 'netto', 'vat')",4,0
+26121,"('ifirma', 'sa')",4,0
+2191,"('navigator', 'hr')",4,0
+9691,"('15000', '19000', 'pln', 'netto')",4,0
+9694,"('developer', 'clurgo')",4,0
+24086,"('realizacji', 'zleceń')",4,0
+28662,"('charakterystyki', 'energetycznej')",4,0
+1468,"('tig', '141')",4,0
+1149,"('języka', 'niemieckiego')",4,0
+29524,"('maszyn', 'budowlanych')",4,0
+15445,"('lufthansa', 'group')",4,0
+28447,"('profi', 'tutors')",4,0
+27122,"('aplikacji', 'mobilnych')",4,0
+10789,"('10', '30', '16')",4,0
+10794,"('00', 'zajęcia', '2')",4,0
+10793,"('zajęcia', '1')",4,0
+10792,"('30', '16', '00')",4,0
+10791,"('10', '30')",4,0
+10790,"('zajęcia', '2')",4,0
+10788,"('16', '00')",4,0
+10787,"('10', '30', '16', '00')",4,0
+10786,"('30', '16')",4,0
+24393,"('celu', 'prowadzenia')",4,0
+3637,"('materiałów', 'budowlanych')",4,0
+8190,"('developer', 'yellows', 'software', 'house')",4,0
+8191,"('developer', 'part')",4,0
+8192,"('developer', 'yellows')",4,0
+8193,"('yellows', 'software')",4,0
+8194,"('software', 'house')",4,0
+8198,"('pln', 'h', 'netto', 'vat', 'b2b')",4,0
+8200,"('23000', 'pln')",4,0
+8201,"('net', 'developer', 'l')",4,0
+15114,"('dobra', 'znajomość')",4,0
+6722,"('the', 'netherlands')",4,0
+6696,"('1090', '10')",4,0
+11318,"('b2b', 'java')",4,0
+10878,"('e', 'commerce')",4,0
+11317,"('net', 'b2b', 'java')",4,0
+11316,"('pln', 'net', 'b2b', 'java')",4,0
+11315,"('000', 'pln', 'net', 'b2b', 'java')",4,0
+8189,"('23000', 'pln', 'netto', 'vat')",4,0
+8188,"('symfony', 'developer', 'yellows', 'software')",4,0
+8187,"('part', 'time')",4,0
+8177,"('23000', 'pln', 'netto', 'vat', 'b2b')",4,0
+8169,"('data', 'engineer')",4,0
+8170,"('16000', 'pln', 'netto')",4,0
+8171,"('yellows', 'software', 'house')",4,0
+8173,"('developer', 'yellows', 'software')",4,0
+8175,"('symfony', 'developer', 'yellows', 'software', 'house')",4,0
+8178,"('23000', 'pln', 'netto')",4,0
+8179,"('symfony', 'developer', 'yellows')",4,0
+8180,"('php', 'symfony', 'developer', 'yellows', 'software')",4,0
+8183,"('developer', 'part', 'time')",4,0
+8184,"('h', 'netto', 'vat', 'b2b')",4,0
+8185,"('php', 'symfony', 'developer', 'yellows')",4,0
+5373,"('3', '1')",4,0
+15589,"('twoich', 'danych', 'osobowych')",4,0
+3364,"('idealgrupa', 'pl')",4,0
+22562,"('press', 'service')",4,0
+11049,"('kiteresort', 'pl')",4,0
+22563,"('service', 'monitoring', 'mediów')",4,0
+6694,"('10', '6', '1090', '10')",4,0
+15586,"('danych', 'prawo')",4,0
+15588,"('prawo', 'żądania')",4,0
+2746,"('ofert', 'pracy')",4,0
+22561,"('press', 'service', 'monitoring', 'mediów')",4,0
+22557,"('monitoring', 'mediów')",4,0
+5759,"('sortowanie', 'odzieży')",4,0
+22990,"('państwa', 'danych')",4,0
+11106,"('you', 'have')",4,0
+22991,"('państwa', 'danych', 'osobowych')",4,0
+3118,"('1', '4')",4,0
+22556,"('service', 'monitoring')",4,0
+10889,"('branża', 'it')",4,0
+11133,"('experience', 'in')",4,0
+6695,"('6', '1090', '10')",4,0
+22555,"('press', 'service', 'monitoring')",4,0
+14943,"('osobowych', 'zawartych')",3,0
+14799,"('danych', 'osobowych', 'zawartych')",3,0
+14947,"('znajomość', 'języka')",3,0
+13855,"('armatis', 'polska')",3,0
+15243,"('psycho', 'medica')",3,0
+15170,"('bank', 'śląski')",3,0
+15169,"('ing', 'bank', 'śląski')",3,0
+15168,"('ing', 'bank')",3,0
+15176,"('mediów', 'społecznościowych')",3,0
+786,"('medycyny', 'pracy')",3,0
+11077,"('zł', 'msc')",3,0
+11083,"('netto', 'h')",3,0
+11100,"('specjalista', 'ds')",3,0
+11107,"('urban', 'jungle')",3,0
+11134,"('knowledge', 'of')",3,0
+11187,"('zł', 'netto')",3,0
+11212,"('potrzeby', 'marki')",3,0
+11251,"('branży', 'beauty')",3,0
+11252,"('kampanii', 'reklamowych')",3,0
+11319,"('spring', 'boot')",3,0
+11320,"('20', '000')",3,0
+11415,"('31', '01')",3,0
+11416,"('01', '2024')",3,0
+11417,"('31', '01', '2024')",3,0
+11485,"('prowadzenia', 'zajęć')",3,0
+11612,"('c', 'e')",3,0
+11628,"('źródło', 'dochodu')",3,0
+15417,"('warty', 'poznań')",3,0
+11819,"('loyal', 'partner')",3,0
+11060,"('kurs', 'asystenta')",3,0
+11059,"('instruktora', 'pzkite')",3,0
+11036,"('egnyte', 'poland')",3,0
+10795,"('23', '17')",3,0
+10554,"('node', 'js')",3,0
+10555,"('node', 'js', 'react')",3,0
+10556,"('node', 'js', 'react', 'js')",3,0
+10615,"('l', 'summ', 'it')",3,0
+10618,"('l', 'summ')",3,0
+10622,"('summ', 'it')",3,0
+10659,"('react', 'developer')",3,0
+10660,"('angular', 'developer')",3,0
+10796,"('06', '23', '17')",3,0
+11016,"('test', 'automation')",3,0
+10797,"('23', '17', '15')",3,0
+10798,"('wne', 'uw')",3,0
+10800,"('06', '23', '17', '15')",3,0
+10801,"('23', '17', '15', '20')",3,0
+10802,"('23', '17', '15', '20', '00')",3,0
+10803,"('06', '23', '17', '15', '20')",3,0
+10804,"('00', 'grupa')",3,0
+10890,"('polska', 'praca')",3,0
+10985,"('agile', 'coach')",3,0
+10991,"('r', 'shiny')",3,0
+11843,"('sanitbuy', 'pl')",3,0
+12929,"('ischool', 'english')",3,0
+12930,"('ischool', 'english', 'language')",3,0
+13008,"('aldi', 'sp')",3,0
+13125,"('samodzielne', 'sporządzanie')",3,0
+13126,"('znajomość', 'zagadnień')",3,0
+13156,"('dzieci', 'pracowników')",3,0
+13205,"('grafton', 'recruitment')",3,0
+13251,"('podatku', 'cit')",3,0
+13392,"('data', 'science')",3,0
+13393,"('data', 'based')",3,0
+13418,"('pgo', 's')",3,0
+13443,"('pracy', 'zdalnej')",3,0
+12928,"('english', 'language')",3,0
+12924,"('budynków', 'jednorodzinnych')",3,0
+12392,"('marketingu', 'internetowego')",3,0
+12657,"('mile', 'widziane')",3,0
+12673,"('zł', 'brutto')",3,0
+12764,"('contact', 'center')",3,0
+12794,"('bank', 'polska', 's')",3,0
+12796,"('polska', 's')",3,0
+12801,"('bank', 'polska')",3,0
+12802,"('santander', 'bank', 'polska', 's')",3,0
+12803,"('santander', 'bank', 'polska')",3,0
+12836,"('lebal', 's')",3,0
+15419,"('branży', 'sportowej')",3,0
+23437,"('realną', 'godzinę', 'pracy')",3,0
+23434,"('źródło', 'zarobku')",3,0
+23429,"('realną', 'godzinę')",3,0
+23428,"('godzinę', 'pracy')",3,0
+23364,"('lunching', 'pl')",3,0
+23155,"('znajomości', 'języka')",3,0
+23035,"('ul', 'grabiszyńska')",3,0
+22972,"('nationale', 'nederlanden')",3,0
+22604,"('kwietnia', '2016')",3,0
+22603,"('2016', 'r')",3,0
+22596,"('27', 'kwietnia')",3,0
+22595,"('ochronie', 'danych', 'osobowych')",3,0
+22587,"('kwietnia', '2016', 'r')",3,0
+22585,"('27', 'kwietnia', '2016')",3,0
+22584,"('dnia', '27')",3,0
+22581,"('13', '00')",3,0
+22573,"('dnia', '27', 'kwietnia', '2016')",3,0
+22572,"('27', 'kwietnia', '2016', 'r')",3,0
+24311,"('abc', 'audit', 'sp')",3,0
+24850,"('home', 'office')",3,0
+24638,"('plus', 'sp')",3,0
+24630,"('legalizacji', 'pobytu')",3,0
+24604,"('grand', 'spaw')",3,0
+24558,"('zespołu', 'medycznego')",3,0
+24429,"('zawarciem', 'umowy')",3,0
+24416,"('celu', 'prowadzenia', 'rekrutacji')",3,0
+24402,"('prowadzenia', 'rekrutacji')",3,0
+24400,"('stanowisko', 'wskazane')",3,0
+24308,"('audit', 'sp')",3,0
+24223,"('zarządu', 'organizacja')",3,0
+23948,"('05', '2023')",3,0
+23861,"('3', 'godziny')",3,0
+23831,"('assist', 'group')",3,0
+23829,"('work', 'assist')",3,0
+23826,"('work', 'assist', 'group')",3,0
+23731,"('branży', 'nieruchomości')",3,0
+22571,"('dnia', '27', 'kwietnia', '2016', 'r')",3,0
+22570,"('ogólnego', 'rozporządzenia')",3,0
+22567,"('ochronie', 'danych')",3,0
+21730,"('przepisów', 'kodeksu', 'pracy')",3,0
+21762,"('przetwarzanie', 'danych', 'osobowych')",3,0
+21754,"('obowiązujących', 'przepisów', 'kodeksu', 'pracy')",3,0
+21753,"('podstawie', 'obowiązujących', 'przepisów')",3,0
+21752,"('podstawie', 'obowiązujących')",3,0
+21740,"('panią', 'danych')",3,0
+21736,"('podstawie', 'obowiązujących', 'przepisów', 'kodeksu')",3,0
+21735,"('obowiązujących', 'przepisów')",3,0
+21734,"('przepisów', 'kodeksu')",3,0
+21732,"('aktów', 'prawnych')",3,0
+21731,"('obowiązujących', 'przepisów', 'kodeksu')",3,0
+21721,"('celu', 'przeprowadzenia')",3,0
+22564,"('dnia', '27', 'kwietnia')",3,0
+21718,"('podstawie', 'obowiązujących', 'przepisów', 'kodeksu', 'pracy')",3,0
+22128,"('ograniczoną', 'odpowiedzialnością', 'spółka')",3,0
+22129,"('ograniczoną', 'odpowiedzialnością', 'spółka', 'komandytowa')",3,0
+22130,"('odpowiedzialnością', 'spółka', 'komandytowa')",3,0
+22387,"('program', 'stażowy')",3,0
+22260,"('środy', 'śląskiej')",3,0
+22140,"('spółka', 'komandytowa')",3,0
+22139,"('odpowiedzialnością', 'spółka')",3,0
+22138,"('ograniczoną', 'odpowiedzialnością')",3,0
+22135,"('cbf', 'spółka')",3,0
+27885,"('000', 'zł')",3,0
+25139,"('jednostek', 'programowych', 'stowarzyszenia')",3,0
+29459,"('after', 'sales')",3,0
+29165,"('fresh', 'market')",3,0
+28763,"('branży', 'finansowej')",3,0
+28664,"('świadectw', 'charakterystyki')",3,0
+28663,"('świadectw', 'charakterystyki', 'energetycznej')",3,0
+28380,"('in', 'the')",3,0
+28362,"('brać', 'udział')",3,0
+27500,"('sales', 'division')",3,0
+27413,"('całym', 'świecie')",3,0
+25695,"('poszukiwanego', 'kandydata')",3,0
+26012,"('umiejętność', 'pracy')",3,0
+25962,"('jesteś', 'osobą')",3,0
+25905,"('робота', 'в')",3,0
+25710,"('adecco', 'poland')",3,0
+25694,"('kandydata', 'kandydatki')",3,0
+25693,"('poszukiwanego', 'kandydata', 'kandydatki')",3,0
+25692,"('mechaniki', 'płynów')",3,0
+25672,"('praktyczna', 'znajomość')",3,0
+25442,"('instalacji', 'sanitarnych')",3,0
+25425,"('saint', 'gobain')",3,0
+25291,"('it', 'neuca')",3,0
+25141,"('jednostek', 'programowych')",3,0
+25140,"('programowych', 'stowarzyszenia')",3,0
+26248,"('procesu', 'rekrutacji')",3,0
+26426,"('3', '5')",3,0
+26971,"('działu', 'rekrutacji')",3,0
+26469,"('otto', 'work', 'force')",3,0
+26468,"('work', 'force')",3,0
+26467,"('otto', 'work')",3,0
+16578,"('inst', 'przeciwpożarowych')",3,0
+16572,"('cundall', 'polska')",3,0
+16900,"('magemar', 'polska')",3,0
+17876,"('naszej', 'organizacji')",3,0
+17257,"('instagram', 'tiktok')",3,0
+17638,"('walki', 'ekopak')",3,0
+17637,"('walki', 'ekopak', 's')",3,0
+17531,"('instalacji', 'elektrycznych')",3,0
+10552,"('react', 'js')",3,0
+17254,"('mediach', 'społecznościowych')",3,0
+17075,"('ing', 'banku')",3,0
+17074,"('banku', 'śląskiego')",3,0
+17073,"('ing', 'banku', 'śląskiego')",3,0
+15474,"('przyszłych', 'rekrutacji')",3,0
+15471,"('aktualnej', 'rekrutacji')",3,0
+17639,"('ekopak', 's')",3,0
+17887,"('ensure', 'that')",3,0
+19312,"('arttime', 'outsourcing')",3,0
+20635,"('sunday', 'polska', 'sp')",3,0
+19319,"('outsourcing', 'sp')",3,0
+20640,"('polska', 'sp')",3,0
+19151,"('technologii', 'bim')",3,0
+20639,"('sunday', 'polska')",3,0
+17960,"('rozwoju', 'produktu')",3,0
+21064,"('dokumentacji', 'związanej')",3,0
+21063,"('ubezpieczeń', 'społecznych')",3,0
+18434,"('administratora', 'art', '6')",3,0
+18242,"('rozwoju', 'oprogramowania')",3,0
+18017,"('innpro', 'pl')",3,0
+18013,"('zgłoszeniu', 'rekrutacyjnym')",3,0
+18009,"('robert', 'błędowski', 'sp')",3,0
+18006,"('innpro', 'robert', 'błędowski')",3,0
+18005,"('innpro', 'robert', 'błędowski', 'sp')",3,0
+17987,"('błędowski', 'sp')",3,0
+17986,"('robert', 'błędowski')",3,0
+17985,"('innpro', 'robert')",3,0
+18436,"('interes', 'administratora')",3,0
+18437,"('lit', 'f', 'rodo')",3,0
+18438,"('1', 'lit', 'f')",3,0
+18439,"('1', 'lit', 'f', 'rodo')",3,0
+18684,"('ul', 'łubinowa')",3,0
+18683,"('łubinowa', '4a')",3,0
+18679,"('wycofania', 'zgody')",3,0
+18674,"('przetwarzania', 'danych')",3,0
+18667,"('ul', 'łubinowa', '4a')",3,0
+18592,"('power', 'electronics')",3,0
+18591,"('technical', 'safety')",3,0
+18468,"('6', 'ust', '1', 'lit', 'f')",3,0
+18467,"('ust', '1', 'lit', 'f', 'rodo')",3,0
+18466,"('administratora', 'art', '6', 'ust', '1')",3,0
+18464,"('interes', 'administratora', 'art', '6', 'ust')",3,0
+18462,"('interes', 'administratora', 'art', '6')",3,0
+18461,"('lit', 'f')",3,0
+18458,"('f', 'rodo')",3,0
+18453,"('postępu', '21b')",3,0
+18452,"('inkaso', 's')",3,0
+18451,"('kredyt', 'inkaso', 's')",3,0
+18445,"('interes', 'administratora', 'art')",3,0
+18442,"('administratora', 'art', '6', 'ust')",3,0
+18441,"('ust', '1', 'lit', 'f')",3,0
+18440,"('administratora', 'art')",3,0
+10553,"('js', 'react', 'js')",3,0
+10551,"('js', 'react')",3,0
+3875,"('zatrudnienia', 'posiadającą', 'certyfikat', 'potwierdzający', 'wpis')",3,0
+3910,"('rejestru', 'podmiotów')",3,0
+3908,"('prowadzących', 'agencję')",3,0
+3907,"('agencję', 'zatrudnienia')",3,0
+3902,"('rejestru', 'podmiotów', 'prowadzących', 'agencję')",3,0
+3897,"('podmiotów', 'prowadzących')",3,0
+3889,"('rejestru', 'podmiotów', 'prowadzących', 'agencję', 'zatrudnienia')",3,0
+3876,"('agencją', 'zatrudnienia', 'posiadającą', 'certyfikat', 'potwierdzający')",3,0
+3872,"('posiadającą', 'certyfikat', 'potwierdzający', 'wpis')",3,0
+4020,"('zatrudnienia', 'posiadającą', 'certyfikat')",3,0
+3871,"('zatrudnienia', 'posiadającą', 'certyfikat', 'potwierdzający')",3,0
+3870,"('agencją', 'zatrudnienia', 'posiadającą', 'certyfikat')",3,0
+3868,"('podmiotów', 'prowadzących', 'agencję')",3,0
+3867,"('rejestru', 'podmiotów', 'prowadzących')",3,0
+3863,"('certyfikat', 'potwierdzający', 'wpis')",3,0
+3862,"('posiadającą', 'certyfikat', 'potwierdzający')",3,0
+3860,"('agencją', 'zatrudnienia', 'posiadającą')",3,0
+3915,"('potwierdzający', 'wpis')",3,0
+3916,"('certyfikat', 'potwierdzający')",3,0
+3917,"('posiadającą', 'certyfikat')",3,0
+4012,"('podmiotów', 'prowadzących', 'agencję', 'zatrudnienia')",3,0
+3978,"('moich', 'danych', 'osobowych')",3,0
+3926,"('moich', 'danych')",3,0
+3923,"('wyrażam', 'zgodę')",3,0
+3920,"('prowadzących', 'agencję', 'zatrudnienia')",3,0
+3919,"('agencją', 'zatrudnienia')",3,0
+3918,"('zatrudnienia', 'posiadającą')",3,0
+3702,"('solutions', 'pl')",3,0
+3700,"('asmo', 'solutions', 'pl')",3,0
+3662,"('języka', 'ukraińskiego')",3,0
+3347,"('najlepszych', 'hotelach')",3,0
+3245,"('klienta', 'biznesowego')",3,0
+3148,"('00', '807')",3,0
+2924,"('metodą', 'tig')",3,0
+2860,"('pracownik', 'produkcji')",3,0
+2773,"('dodawania', 'ofert', 'pracy')",3,0
+2792,"('naszym', 'portalu')",3,0
+10430,"('player', 'support')",3,0
+1496,"('1000', 'zł')",3,0
+1487,"('konstrukcji', 'stalowych')",3,0
+1454,"('monter', 'izometryczny')",3,0
+1426,"('szczepiącza', '141')",3,0
+1400,"('2', 'miesiące')",3,0
+1276,"('asystent', 'akustyka')",3,0
+1210,"('finansowoprawny', 'oferty', 'kredytowe', 'pl')",3,0
+1209,"('oferty', 'kredytowe', 'pl')",3,0
+1208,"('finansowoprawny', 'oferty')",3,0
+1207,"('finansowoprawny', 'oferty', 'kredytowe')",3,0
+1206,"('kredytowe', 'pl')",3,0
+1204,"('oferty', 'kredytowe')",3,0
+1164,"('wyrobienia', 'badań')",3,0
+1163,"('możliwość', 'wyrobienia')",3,0
+1162,"('możliwość', 'wyrobienia', 'badań')",3,0
+1158,"('h', 'e')",3,0
+1125,"('000', 'euro')",3,0
+1124,"('3', '000')",3,0
+1122,"('3', '000', 'euro')",3,0
+936,"('wynagrodzenie', 'brutto')",3,0
+1494,"('badań', 'nieniszczących')",3,0
+1556,"('okien', 'drzwi')",3,0
+1747,"('premiumbull', 'pl')",3,0
+1692,"('dgp', 'clean')",3,0
+1678,"('pokrywamy', 'koszty')",3,0
+1677,"('euro', 'netto')",3,0
+2770,"('dodawania', 'ofert')",3,0
+2440,"('9', '80', '758')",3,0
+2450,"('ul', 'siennicka', '25')",3,0
+2449,"('siennicka', '25', '9', '80', '758')",3,0
+2448,"('758', 'gdańsk')",3,0
+2447,"('80', '758')",3,0
+2446,"('9', '80')",3,0
+2445,"('25', '9')",3,0
+2444,"('siennicka', '25')",3,0
+2443,"('ul', 'siennicka')",3,0
+2442,"('siennicka', '25', '9')",3,0
+2441,"('25', '9', '80')",3,0
+2439,"('ul', 'siennicka', '25', '9')",3,0
+2438,"('siennicka', '25', '9', '80')",3,0
+2437,"('25', '9', '80', '758')",3,0
+2436,"('9', '80', '758', 'gdańsk')",3,0
+2435,"('ul', 'siennicka', '25', '9', '80')",3,0
+2434,"('25', '9', '80', '758', 'gdańsk')",3,0
+2433,"('80', '758', 'gdańsk')",3,0
+2687,"('oferty', 'pracy')",3,0
+2661,"('portal', 'ogłoszeniowy')",3,0
+7492,"('ul', 'siennicka', '259', '80')",3,0
+7491,"('259', '80')",3,0
+7489,"('siennicka', '259')",3,0
+7487,"('ul', 'siennicka', '259', '80', '758')",3,0
+7486,"('siennicka', '259', '80', '758')",3,0
+8223,"('consulting', 'polska')",3,0
+7493,"('ul', 'siennicka', '259')",3,0
+7494,"('siennicka', '259', '80')",3,0
+7495,"('259', '80', '758')",3,0
+8221,"('l', 'margo')",3,0
+8220,"('l', 'itcenter', 'l')",3,0
+8216,"('margo', 'consulting', 'polska', 'l')",3,0
+8215,"('18000', 'pln')",3,0
+8211,"('18000', 'pln', 'netto', 'vat')",3,0
+8205,"('18000', 'pln', 'netto', 'vat', 'b2b')",3,0
+7988,"('rabat', '10')",3,0
+7987,"('rabat', '28')",3,0
+7949,"('18', '00')",3,0
+7632,"('gk', 'pgnig')",3,0
+7629,"('ochrony', 'fizycznej')",3,0
+7097,"('dotyczą', 'przysługuje', 'prawo')",3,0
+7095,"('dotyczą', 'przysługuje')",3,0
+7093,"('dane', 'dotyczą')",3,0
+7090,"('przysługuje', 'prawo')",3,0
+7088,"('ul', 'grójecka', '77')",3,0
+7086,"('ul', 'grójecka')",3,0
+7085,"('dane', 'dotyczą', 'przysługuje', 'prawo')",3,0
+7082,"('ochrony', 'danych', 'osobowych')",3,0
+7080,"('grójecka', '77')",3,0
+7032,"('dane', 'dotyczą', 'przysługuje')",3,0
+7389,"('swoich', 'danych')",3,0
+7387,"('państwa', 'dane', 'osobowe')",3,0
+7386,"('państwa', 'dane')",3,0
+8222,"('margo', 'consulting')",3,0
+8224,"('l', 'margo', 'consulting')",3,0
+9719,"('python', 'developer')",3,0
+9730,"('informtycze', 's')",3,0
+9729,"('php', 'it', 'leaders')",3,0
+9728,"('programista', 'php', 'it')",3,0
+9727,"('130', '160', 'pln')",3,0
+9725,"('itcraft', '10000', '15000')",3,0
+9724,"('10000', '15000', 'pln')",3,0
+9723,"('11000', 'pln', 'brutto')",3,0
+9722,"('java', 'developer', 'pentacomp')",3,0
+9721,"('15000', '25000', 'pln')",3,0
+9720,"('systemy', 'informtycze', 's')",3,0
+8225,"('15000', '20000', 'pln')",3,0
+9716,"('programista', 'php', 'it', 'leaders')",3,0
+9714,"('dodatkowa', 'infoshare', 'academy')",3,0
+9713,"('developer', 'pentacomp', 'systemy', 'informtycze', 's')",3,0
+9711,"('160', 'pln', 'h', 'netto', 'vat')",3,0
+9710,"('9000', 'pln', 'netto', 'vat')",3,0
+9709,"('130', '160', 'pln', 'h', 'netto')",3,0
+9708,"('php', 'it', 'leaders', 'pro')",3,0
+9706,"('11000', 'pln')",3,0
+9705,"('programista', 'php')",3,0
+9704,"('itcraft', '10000', '15000', 'pln')",3,0
+9731,"('leaders', 'pl')",3,0
+9732,"('15000', '25000')",3,0
+9733,"('7000', '12000', 'pln')",3,0
+9734,"('160', 'pln', 'h')",3,0
+9758,"('programista', 'php', 'it', 'leaders', 'pro')",3,0
+9757,"('dodatkowa', 'infoshare')",3,0
+9756,"('praca', 'dodatkowa')",3,0
+9754,"('130', '160', 'pln', 'h')",3,0
+9753,"('infoshare', 'academy')",3,0
+9750,"('android', 'developer')",3,0
+9748,"('7000', '12000')",3,0
+9747,"('9000', '15000', 'pln')",3,0
+9746,"('160', 'pln', 'h', 'netto')",3,0
+9744,"('praca', 'dodatkowa', 'infoshare', 'academy')",3,0
+9743,"('it', 'leaders', 'pl')",3,0
+9742,"('9000', 'pln', 'netto')",3,0
+9740,"('pentacomp', 'systemy', 'informtycze', 's')",3,0
+9739,"('java', 'developer', 'pentacomp', 'systemy')",3,0
+9738,"('130', '160')",3,0
+9737,"('160', 'pln')",3,0
+9703,"('9000', '15000')",3,0
+9702,"('php', 'it')",3,0
+9701,"('praca', 'dodatkowa', 'infoshare')",3,0
+8260,"('24000', 'pln')",3,0
+8256,"('end', 'developer')",3,0
+8253,"('24000', 'pln', 'netto', 'vat')",3,0
+8252,"('15000', '20000', 'pln', 'netto')",3,0
+853,"('opinie', 'pl')",3,0
+8250,"('18000', 'pln', 'netto')",3,0
+8248,"('12000', '16000', 'pln', 'netto')",3,0
+8246,"('developer', 'l', 'bertek', 'polska')",3,0
+8242,"('sourceful', 'ict')",3,0
+8239,"('net', 'developer', 'l', 'bertek')",3,0
+8236,"('developer', 'l', 'bertek')",3,0
+8235,"('data', 'engineer', 'l')",3,0
+8233,"('25000', 'pln', 'netto', 'vat', 'b2b')",3,0
+8232,"('12000', '16000', 'pln')",3,0
+8231,"('pln', 'netto', 'b2b')",3,0
+8229,"('24000', 'pln', 'netto')",3,0
+8228,"('consulting', 'polska', 'l')",3,0
+8227,"('margo', 'consulting', 'polska')",3,0
+8226,"('l', 'margo', 'consulting', 'polska')",3,0
+8257,"('l', 'margo', 'consulting', 'polska', 'l')",3,0
+9700,"('7000', '12000', 'pln', 'brutto')",3,0
+8262,"('25000', 'pln', 'netto', 'vat')",3,0
+9699,"('itcraft', '10000')",3,0
+9698,"('10000', '15000')",3,0
+9696,"('developer', 'tech')",3,0
+9591,"('cancer', 'biology')",3,0
+8575,"('wyników', 'testów')",3,0
+8277,"('24000', 'pln', 'netto', 'vat', 'b2b')",3,0
+8274,"('developer', 'l', 'bertek', 'polska', 'l')",3,0
+8273,"('l', '18000')",3,0
+8272,"('15000', '20000', 'pln', 'netto', 'vat')",3,0
+8270,"('25000', 'pln', 'netto')",3,0
+8269,"('15000', '20000')",3,0
+8268,"('itcenter', 'l')",3,0
+8266,"('l', 'itcenter')",3,0
+8265,"('net', 'developer', 'l', 'bertek', 'polska')",3,0
+8264,"('12000', '16000')",3,0
+8263,"('netto', 'b2b')",3,0
+4940,"('5', 'lat')",3,0
+4719,"('prefabrykacji', 'betonu')",3,0
+5177,"('typu', 'reachtruck')",3,0
+5424,"('rynku', 'pracy')",3,0
+5378,"('1', '3', '1')",3,0
+5377,"('2', '1', '3')",3,0
+5376,"('2', '1', '3', '1')",3,0
+5375,"('1', '3')",3,0
+6440,"('plus', 'hr')",3,0
+6439,"('selekcji', 'pracowników')",3,0
+6436,"('jobs', 'plus', 'hr')",3,0
+6270,"('jobs', 'plus')",3,0
+6098,"('time', 'group')",3,0
+5942,"('post', 'nl')",3,0
+5872,"('0', '00', 'zł')",3,0
+5871,"('00', 'zł')",3,0
+6697,"('1', '82')",3,0
+5844,"('3', 'm')",3,0
+6698,"('10', '0')",3,0
+6816,"('chłodnia', 'box')",3,0
+6728,"('serwis', 'sprzątający')",3,0
+5870,"('0', '00')",3,0
+5768,"('koło', 'wrocławia')",3,0
+5763,"('ce', 'driver')",3,0
+5670,"('min', 'poziom')",3,0
