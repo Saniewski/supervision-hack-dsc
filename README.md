@@ -16,6 +16,15 @@ Problem picked - #FakeJobHunter
 ## Prerequisites
 Requires setup of a virtual enviroment using provided `requirements.txt` file.
 
+## Usage
+To run the application, use the following command:
+```bash
+$ cd 04_app
+$ streamlit run streamlit.py
+```
+| :warning: | It is required to run the PoC app from the `04_app` directory in order for the app to utilize correct relative paths to the scrappers and model scripts present in different directories |
+| --- | --- |
+
 ## Project Structure
 
 - `01_scrappers`:
