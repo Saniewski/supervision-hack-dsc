@@ -69,7 +69,7 @@ def assign_conditions(prediction):
     else:
         return conditions["non_fake"]
 
-st.title("FakeHunter - Sprawdzanie ogłoszeń o pracę")
+st.title("Whistleblower on Web-scams - Sprawdzanie ogłoszeń o pracę")
 
 tab = st.sidebar.selectbox("Wybierz zakładkę", ("Wstaw ogłoszenie", "Podaj link"))
 
