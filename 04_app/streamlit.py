@@ -40,11 +40,15 @@ def scrape_text(url):
             print(work_desc)
             return clean_text(work_desc)
         if 'olx.pl' in url:
-            #sprawdź czy to jest dobrze
             response = requests.get(url)
-            soup = BeautifulSoup(response.text, "html.parser")
-            description_element = soup.find('div', _class='.css-19srbbu')
-            work_desc = description_element.text.strip()
+            html = response.text
+            soup = BeautifulSoup(html, "html.parser")
+            html = soup.prettify()
+            elements = soup.select('.css-19srbbu')
+            work_desc = []
+            for element in elements:
+                work_desc.append(element.get_text())
+            work_desc = work_desc[0]
             print(work_desc)
             return clean_text(work_desc)
     except:
